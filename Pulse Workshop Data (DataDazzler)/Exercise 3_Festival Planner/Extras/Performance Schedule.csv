@@ -1,0 +1,1189 @@
+﻿DateTime,Artist Name,Genre,Stage Location,Expected Audience Size,Actual Audience Size,Audience Engagement Score,Performance Duration,Setup Time,Tear Down Time
+4/25/2024 9:52:42 AM,Byte Beat,Electronic,Main Stage,4986,4986,5,113,17,16
+6/17/2023 7:05:40 AM,Recursive Rhythms,Indie,VIP Lounge,4035,4035,5,79,22,31
+4/2/2024 8:36:44 AM,Cache Miss,Jazz,Indie Arena,4719,2372,2,77,52,59
+7/26/2023 11:48:14 AM,The Query Strings,Hip Hop,Main Stage,5291,5291,3,107,18,51
+8/1/2023 5:45:45 AM,The Algorithmics,Indie,VIP Lounge,6975,1911,9,59,26,56
+7/19/2023 9:48:08 PM,Syntax Error,Electronic,Main Stage,7956,6670,7,58,58,58
+4/26/2023 2:06:41 PM,Cache Miss,Indie,VIP Lounge,5501,4097,1,37,45,31
+2/16/2024 10:22:15 PM,Cache Miss,Rock,Indie Arena,3122,3122,3,41,39,52
+1/5/2024 6:04:56 PM,Recursive Rhythms,Electronic,DJ Tent,5838,5838,2,70,30,49
+6/28/2023 2:37:03 PM,Byte Beat,Rock,DJ Tent,6084,1148,1,55,56,53
+11/21/2023 6:08:37 AM,The Data Wranglers,Electronic,Main Stage,1870,1870,9,79,28,44
+10/26/2023 10:41:54 PM,Random Forest,Indie,Indie Arena,9089,1784,8,31,27,20
+6/25/2023 10:04:52 PM,Syntax Error,Jazz,DJ Tent,3315,3315,5,84,55,18
+4/5/2024 2:46:38 PM,Infinite Loop,Hip Hop,VIP Lounge,6794,5959,2,85,21,51
+10/29/2023 12:55:06 PM,Segmentation Fault,Rock,DJ Tent,3076,3076,1,43,26,49
+4/12/2024 12:27:49 PM,The Algorithmics,Indie,Main Stage,3837,3837,7,35,51,23
+1/21/2024 8:43:06 AM,Recursive Rhythms,Jazz,Main Stage,852,852,2,110,18,20
+9/20/2023 11:23:55 PM,Cache Miss,Indie,Indie Arena,1492,730,1,118,16,27
+9/1/2023 11:16:04 PM,Syntax Error,Rock,Main Stage,6889,6889,2,90,49,36
+8/31/2023 9:35:01 AM,The Algorithmics,Hip Hop,DJ Tent,777,777,7,41,58,42
+4/27/2023 7:59:14 PM,Cache Miss,Indie,DJ Tent,205,205,7,42,17,44
+11/21/2023 6:08:29 PM,Neural Nets,Electronic,DJ Tent,4853,4853,6,48,18,50
+8/28/2023 9:27:51 PM,Bit Rate,Jazz,DJ Tent,2046,2046,5,73,52,16
+3/20/2024 1:05:34 AM,Parallel Processors,Indie,Indie Arena,5644,2241,3,118,26,50
+10/24/2023 8:28:47 AM,Segmentation Fault,Jazz,VIP Lounge,1195,1195,3,88,33,22
+3/9/2024 9:42:04 PM,The Algorithmics,Electronic,VIP Lounge,7085,7085,9,66,24,59
+4/25/2024 3:43:13 AM,Byte Beat,Hip Hop,Indie Arena,1882,1882,4,54,15,56
+11/4/2023 11:47:00 PM,Cluster Funk,Hip Hop,Main Stage,4641,4641,9,45,31,23
+4/28/2024 5:25:52 PM,Hello World,Electronic,VIP Lounge,3357,3357,4,67,30,15
+2/12/2024 5:18:24 PM,Cache Miss,Jazz,Main Stage,6313,2896,2,72,23,27
+5/25/2023 1:06:25 AM,Bit Rate,Indie,VIP Lounge,4969,2513,4,116,23,29
+12/24/2023 5:21:50 AM,Random Forest,Electronic,Main Stage,1661,1661,6,43,23,46
+1/6/2024 11:46:19 AM,Hello World,Rock,Indie Arena,4106,4106,6,35,26,48
+9/28/2023 11:58:47 AM,Segmentation Fault,Jazz,DJ Tent,9967,4442,5,118,55,57
+1/21/2024 11:09:58 AM,Hello World,Hip Hop,Main Stage,9414,3233,1,52,29,45
+7/18/2023 10:37:31 AM,The Data Wranglers,Electronic,DJ Tent,4081,3217,3,89,16,28
+10/22/2023 11:04:07 AM,Recursive Rhythms,Hip Hop,Main Stage,9593,3047,5,41,25,28
+8/2/2023 3:51:55 PM,Cache Miss,Jazz,Main Stage,5782,5782,6,42,25,43
+5/15/2023 5:26:12 PM,Hello World,Hip Hop,Main Stage,5882,3277,1,35,22,33
+1/6/2024 6:52:49 PM,Cluster Funk,Electronic,Main Stage,1043,1043,9,92,46,41
+6/21/2023 7:57:04 PM,Cluster Funk,Jazz,Main Stage,4650,4650,3,67,20,23
+7/2/2023 2:10:10 AM,Cache Miss,Rock,DJ Tent,9237,2074,3,79,34,51
+4/11/2024 4:43:57 PM,Epsilon Greedy,Electronic,Main Stage,700,379,2,81,53,51
+2/7/2024 1:52:04 AM,Cluster Funk,Indie,DJ Tent,6476,2536,8,69,49,57
+2/16/2024 11:12:25 AM,Hello World,Electronic,Indie Arena,9709,1205,3,37,22,42
+3/13/2024 11:47:14 PM,Infinite Loop,Jazz,VIP Lounge,1624,1624,6,90,57,38
+8/11/2023 12:46:49 PM,Recursive Rhythms,Electronic,Main Stage,3866,2235,2,37,48,42
+1/18/2024 7:43:18 AM,The Query Strings,Rock,VIP Lounge,350,350,7,63,33,50
+11/21/2023 6:26:30 PM,The Algorithmics,Rock,DJ Tent,9836,2367,4,108,21,32
+12/3/2023 12:43:39 AM,Cluster Funk,Indie,Indie Arena,178,178,9,89,45,39
+8/23/2023 8:49:26 AM,Syntax Error,Hip Hop,Indie Arena,3223,3223,9,86,32,49
+4/15/2023 1:18:01 AM,Segmentation Fault,Jazz,Indie Arena,9189,2561,7,75,54,18
+2/4/2024 12:30:40 AM,Epsilon Greedy,Jazz,VIP Lounge,7164,7164,8,51,28,28
+2/25/2024 11:58:22 PM,Syntax Error,Hip Hop,DJ Tent,8517,8517,3,116,53,53
+5/19/2023 7:20:49 AM,Hello World,Rock,Main Stage,1309,1309,5,69,50,40
+4/25/2023 9:21:01 PM,The Algorithmics,Rock,Main Stage,5253,5253,2,74,31,22
+8/25/2023 6:01:52 PM,Byte Beat,Electronic,DJ Tent,4998,4998,7,84,51,38
+5/1/2024 3:30:47 PM,Neural Nets,Indie,VIP Lounge,2278,2278,8,80,58,30
+2/3/2024 10:48:21 AM,The Algorithmics,Indie,Main Stage,7710,1343,9,115,23,34
+7/23/2023 12:11:09 PM,Byte Beat,Indie,DJ Tent,8995,2515,7,34,34,29
+4/24/2024 12:56:41 AM,The Data Wranglers,Electronic,Main Stage,2644,2644,8,42,59,21
+4/27/2023 3:49:41 PM,Syntax Error,Indie,Indie Arena,5622,5622,9,57,42,31
+4/14/2024 4:30:55 AM,Neural Nets,Hip Hop,Main Stage,2470,2470,6,113,34,36
+7/23/2023 11:39:30 PM,The Data Wranglers,Electronic,VIP Lounge,3381,3381,2,109,55,36
+7/7/2023 6:46:22 PM,Neural Nets,Hip Hop,DJ Tent,4810,4810,2,91,50,26
+8/2/2023 3:24:55 AM,Recursive Rhythms,Electronic,VIP Lounge,428,428,4,116,41,32
+12/10/2023 11:07:51 PM,Neural Nets,Indie,DJ Tent,5679,2809,9,53,22,29
+6/28/2023 7:15:56 AM,Recursive Rhythms,Hip Hop,Indie Arena,4328,4328,7,36,46,51
+8/28/2023 1:16:59 AM,The Query Strings,Hip Hop,DJ Tent,6894,6894,2,67,15,30
+10/13/2023 3:09:57 PM,Random Forest,Hip Hop,Main Stage,220,52,8,66,31,19
+4/18/2023 5:00:14 PM,Segmentation Fault,Electronic,Main Stage,6849,6849,7,97,23,16
+5/3/2024 10:35:38 PM,Byte Beat,Jazz,Indie Arena,1064,1064,9,71,34,42
+6/10/2023 6:47:05 AM,Bit Rate,Indie,DJ Tent,4324,4324,8,115,59,55
+12/18/2023 9:59:48 AM,Cluster Funk,Hip Hop,Indie Arena,3775,3775,3,34,46,41
+11/15/2023 11:47:50 AM,Hello World,Jazz,Main Stage,5794,5794,1,93,16,45
+4/25/2023 6:05:32 PM,Epsilon Greedy,Indie,VIP Lounge,2176,2176,2,79,46,55
+3/20/2024 6:39:04 PM,Segmentation Fault,Indie,Indie Arena,6965,1935,2,116,59,50
+5/9/2023 1:13:51 PM,The Data Wranglers,Hip Hop,VIP Lounge,5743,5743,4,44,23,57
+3/13/2024 9:23:17 AM,The Query Strings,Hip Hop,VIP Lounge,8624,7894,6,102,44,15
+7/11/2023 12:57:28 AM,The Data Wranglers,Electronic,DJ Tent,5349,5349,4,82,34,43
+5/29/2023 4:44:56 PM,Random Forest,Jazz,Indie Arena,1416,1416,9,54,52,15
+4/18/2024 2:38:03 PM,Epsilon Greedy,Jazz,VIP Lounge,1296,1296,4,118,15,22
+7/23/2023 3:56:20 PM,Bit Rate,Hip Hop,VIP Lounge,3270,3270,6,114,19,30
+1/18/2024 9:22:45 PM,Parallel Processors,Indie,DJ Tent,9721,3808,6,38,49,42
+2/9/2024 3:40:33 AM,The Query Strings,Hip Hop,DJ Tent,455,455,1,67,50,36
+4/27/2024 9:14:43 AM,The Data Wranglers,Indie,Main Stage,9818,9189,8,51,15,32
+12/14/2023 11:16:00 PM,Random Forest,Indie,VIP Lounge,128,128,3,116,28,36
+11/5/2023 2:28:59 AM,Parallel Processors,Hip Hop,Main Stage,1113,1113,6,78,23,55
+10/27/2023 8:24:20 AM,The Algorithmics,Rock,VIP Lounge,9119,2781,3,97,44,26
+5/4/2023 2:00:10 AM,Hello World,Jazz,Main Stage,2124,919,2,44,38,33
+6/7/2023 12:25:31 AM,Hello World,Indie,DJ Tent,8590,5216,5,94,18,39
+11/16/2023 11:57:44 AM,Bit Rate,Indie,Indie Arena,5939,143,1,83,28,19
+2/26/2024 5:07:17 PM,The Data Wranglers,Rock,DJ Tent,5891,3037,9,59,39,48
+6/29/2023 11:49:58 AM,The Algorithmics,Electronic,Main Stage,854,854,7,49,18,53
+1/12/2024 7:31:09 PM,Bit Rate,Rock,Main Stage,9061,4997,3,62,39,24
+1/20/2024 12:42:17 AM,Segmentation Fault,Rock,Indie Arena,3835,3835,4,115,24,21
+9/7/2023 8:17:52 AM,Epsilon Greedy,Indie,VIP Lounge,1338,1338,6,106,49,51
+5/23/2023 10:51:54 PM,Cache Miss,Jazz,Main Stage,2006,2006,3,36,21,29
+11/27/2023 6:39:52 PM,Segmentation Fault,Rock,Main Stage,7499,6574,7,37,56,56
+1/12/2024 2:45:36 PM,Hello World,Electronic,Main Stage,8061,3194,6,57,27,38
+2/20/2024 2:53:43 AM,Epsilon Greedy,Hip Hop,Indie Arena,9856,3637,9,74,18,40
+3/2/2024 9:05:13 AM,Random Forest,Rock,DJ Tent,9510,126,5,102,57,40
+9/30/2023 4:24:29 AM,The Query Strings,Rock,Main Stage,4701,4701,4,118,50,40
+7/20/2023 10:46:51 AM,Infinite Loop,Electronic,Indie Arena,9649,9009,3,109,28,24
+2/28/2024 12:20:14 PM,Recursive Rhythms,Jazz,Main Stage,1560,1560,1,103,32,31
+11/20/2023 10:45:06 PM,Syntax Error,Rock,VIP Lounge,7769,7769,3,40,22,28
+12/7/2023 12:56:45 AM,The Algorithmics,Rock,Indie Arena,1516,1516,3,60,46,16
+2/17/2024 5:57:26 PM,Neural Nets,Jazz,Main Stage,7866,2923,7,41,41,27
+6/16/2023 8:34:28 PM,The Data Wranglers,Electronic,Indie Arena,1528,1528,7,107,56,41
+5/19/2023 5:38:21 AM,Infinite Loop,Rock,Main Stage,4478,4478,1,80,51,23
+2/13/2024 9:22:44 PM,Byte Beat,Jazz,DJ Tent,7629,3198,3,73,37,21
+2/18/2024 9:38:28 PM,Epsilon Greedy,Rock,Main Stage,4574,4574,8,79,21,24
+12/2/2023 1:13:45 AM,Syntax Error,Hip Hop,Indie Arena,3171,294,9,46,26,23
+7/19/2023 7:37:38 PM,Cluster Funk,Indie,VIP Lounge,655,655,7,64,39,36
+12/8/2023 9:40:13 PM,Random Forest,Hip Hop,VIP Lounge,8647,3899,7,30,17,37
+8/11/2023 1:17:39 AM,Cache Miss,Rock,VIP Lounge,1663,1663,8,58,40,21
+12/29/2023 3:43:49 AM,Neural Nets,Electronic,Main Stage,1140,1140,6,80,18,23
+2/4/2024 11:47:24 AM,Recursive Rhythms,Indie,DJ Tent,2786,2786,3,93,56,41
+4/1/2024 1:55:30 AM,Cluster Funk,Hip Hop,Main Stage,2653,2653,1,33,50,38
+4/23/2023 8:16:23 PM,Cache Miss,Jazz,VIP Lounge,1879,942,7,116,29,43
+10/15/2023 4:27:19 AM,Byte Beat,Electronic,Indie Arena,175,175,1,57,46,31
+7/20/2023 3:58:44 PM,Hello World,Hip Hop,VIP Lounge,4426,4426,1,45,43,34
+4/25/2023 6:16:43 AM,Segmentation Fault,Jazz,Indie Arena,5935,5935,9,92,24,21
+8/30/2023 8:56:10 AM,The Data Wranglers,Rock,DJ Tent,5157,2449,7,105,35,57
+1/28/2024 1:23:00 PM,The Query Strings,Jazz,Indie Arena,2449,2449,4,82,30,54
+1/11/2024 7:33:35 PM,Cache Miss,Hip Hop,Main Stage,2873,2873,6,114,33,21
+4/20/2024 11:14:32 AM,Neural Nets,Hip Hop,Main Stage,2362,2362,1,46,43,42
+7/12/2023 3:55:24 AM,Infinite Loop,Rock,Main Stage,3329,1519,7,69,32,33
+4/13/2024 10:14:39 AM,Parallel Processors,Jazz,Indie Arena,492,492,6,42,58,34
+4/17/2023 1:25:01 AM,Recursive Rhythms,Jazz,Main Stage,1208,1208,4,81,30,58
+11/12/2023 6:13:13 PM,Epsilon Greedy,Rock,Main Stage,4462,4462,7,87,15,53
+10/14/2023 2:14:41 PM,Hello World,Jazz,Main Stage,5288,5288,3,66,16,54
+6/1/2023 11:06:14 AM,Parallel Processors,Rock,DJ Tent,8902,5172,1,108,29,21
+5/28/2023 12:33:33 AM,Epsilon Greedy,Electronic,Indie Arena,5157,5157,4,105,53,20
+6/20/2023 6:47:41 AM,Neural Nets,Hip Hop,Indie Arena,4098,4098,3,90,42,39
+3/5/2024 9:22:10 AM,Epsilon Greedy,Electronic,VIP Lounge,8964,7681,1,108,15,55
+12/24/2023 4:48:51 PM,Cache Miss,Indie,Indie Arena,6666,6666,2,63,19,27
+8/4/2023 2:54:29 PM,Infinite Loop,Indie,DJ Tent,3777,3777,5,99,56,53
+9/21/2023 2:26:36 PM,Parallel Processors,Indie,Indie Arena,5896,2274,8,46,36,54
+6/21/2023 8:08:55 AM,Random Forest,Rock,DJ Tent,6463,2160,1,49,50,36
+7/12/2023 1:59:56 PM,Parallel Processors,Jazz,DJ Tent,8223,1007,4,102,27,31
+7/15/2023 6:34:06 PM,Epsilon Greedy,Electronic,Indie Arena,8322,7196,4,88,15,36
+5/10/2023 7:24:31 AM,Segmentation Fault,Electronic,VIP Lounge,7790,610,5,98,30,48
+5/5/2024 10:45:39 PM,Infinite Loop,Electronic,Main Stage,1500,1500,7,116,55,22
+6/18/2023 3:06:39 PM,Recursive Rhythms,Electronic,Main Stage,4171,4171,8,62,36,59
+9/12/2023 2:48:19 PM,Byte Beat,Indie,Indie Arena,8908,1362,6,107,46,32
+6/23/2023 3:53:55 PM,The Query Strings,Electronic,Indie Arena,2886,1871,1,46,30,38
+3/31/2024 7:53:50 PM,Cache Miss,Jazz,DJ Tent,7269,5696,7,86,29,56
+12/31/2023 5:45:26 PM,Syntax Error,Indie,Indie Arena,970,970,3,112,56,16
+10/28/2023 7:05:40 AM,Cluster Funk,Electronic,DJ Tent,4296,4296,6,30,26,16
+10/8/2023 3:01:59 AM,Bit Rate,Rock,VIP Lounge,9704,2701,8,42,15,41
+4/2/2024 2:12:55 PM,Infinite Loop,Hip Hop,Indie Arena,2839,2839,7,56,31,28
+2/8/2024 11:31:30 AM,Syntax Error,Hip Hop,Main Stage,1040,1040,6,99,55,53
+7/9/2023 11:25:17 PM,Syntax Error,Hip Hop,Main Stage,440,440,9,88,42,26
+12/2/2023 9:53:18 AM,Syntax Error,Indie,Indie Arena,7522,5632,9,35,21,46
+12/29/2023 2:53:13 AM,Neural Nets,Electronic,DJ Tent,4233,4233,1,52,23,42
+2/24/2024 5:25:22 PM,Hello World,Indie,Main Stage,759,759,1,39,36,42
+5/7/2023 1:23:30 AM,Parallel Processors,Jazz,DJ Tent,9852,795,1,80,40,39
+6/19/2023 3:46:16 AM,Infinite Loop,Rock,Indie Arena,3557,3557,8,48,26,18
+2/8/2024 11:51:14 PM,Cache Miss,Rock,Indie Arena,9948,991,7,80,21,40
+10/3/2023 8:06:20 PM,The Algorithmics,Hip Hop,Main Stage,3075,3075,3,116,29,50
+8/21/2023 10:13:38 AM,Recursive Rhythms,Hip Hop,Indie Arena,9341,2346,2,97,52,17
+12/2/2023 8:11:19 PM,Parallel Processors,Hip Hop,VIP Lounge,553,553,4,113,35,15
+3/12/2024 12:42:12 AM,Parallel Processors,Electronic,VIP Lounge,9996,1660,3,112,28,31
+6/30/2023 2:20:12 PM,Random Forest,Jazz,Main Stage,8284,6350,7,71,16,21
+8/29/2023 11:55:16 PM,Syntax Error,Jazz,VIP Lounge,5542,1775,8,86,22,19
+1/30/2024 5:31:42 PM,Hello World,Jazz,DJ Tent,918,918,6,97,59,33
+11/7/2023 4:21:09 AM,Bit Rate,Jazz,Main Stage,4968,4968,3,67,20,53
+1/31/2024 5:30:17 PM,Segmentation Fault,Hip Hop,Main Stage,112,112,6,91,51,48
+2/3/2024 6:55:06 AM,Neural Nets,Rock,DJ Tent,7827,7827,2,36,51,49
+2/13/2024 1:49:59 PM,The Algorithmics,Hip Hop,VIP Lounge,1020,1020,7,100,47,30
+9/3/2023 4:34:18 PM,Hello World,Jazz,VIP Lounge,5020,82,7,79,55,54
+2/20/2024 7:34:15 PM,Epsilon Greedy,Hip Hop,VIP Lounge,2518,2518,4,81,20,53
+8/14/2023 11:30:00 AM,Cache Miss,Jazz,Main Stage,9606,3464,8,55,40,41
+9/9/2023 8:41:00 PM,The Algorithmics,Indie,Main Stage,6575,1206,4,55,53,55
+5/4/2023 7:12:02 AM,Byte Beat,Rock,VIP Lounge,2117,2117,7,48,55,52
+8/19/2023 6:44:21 AM,Neural Nets,Indie,Indie Arena,8057,8057,4,38,51,39
+7/29/2023 5:22:17 AM,The Algorithmics,Electronic,VIP Lounge,9520,1593,5,90,28,40
+2/21/2024 6:11:31 PM,The Data Wranglers,Hip Hop,DJ Tent,4892,321,7,49,51,28
+7/22/2023 10:56:09 AM,Segmentation Fault,Electronic,Main Stage,6930,5345,3,79,22,28
+7/14/2023 6:44:09 PM,Syntax Error,Hip Hop,DJ Tent,2534,2534,5,109,53,28
+12/30/2023 4:03:19 AM,The Query Strings,Indie,DJ Tent,2968,2968,3,110,27,39
+5/26/2023 3:15:16 PM,Neural Nets,Jazz,Main Stage,1538,1538,5,51,27,50
+7/24/2023 8:56:30 AM,Random Forest,Jazz,Indie Arena,3643,3643,3,42,54,18
+11/3/2023 9:27:53 PM,Cache Miss,Hip Hop,VIP Lounge,1881,1881,7,41,57,29
+3/31/2024 3:36:04 PM,Epsilon Greedy,Jazz,DJ Tent,6443,6443,1,39,42,46
+9/4/2023 3:13:42 PM,The Algorithmics,Indie,Main Stage,2363,2363,9,94,32,32
+5/22/2023 12:36:05 AM,The Query Strings,Jazz,DJ Tent,311,311,9,59,33,28
+11/4/2023 3:22:11 PM,The Query Strings,Indie,VIP Lounge,8799,8251,5,37,52,15
+10/23/2023 1:57:28 PM,Segmentation Fault,Electronic,Indie Arena,6259,4194,9,50,46,56
+7/3/2023 5:52:38 AM,The Algorithmics,Indie,Indie Arena,7127,5656,6,51,36,34
+11/20/2023 11:55:26 AM,Hello World,Rock,Indie Arena,431,431,5,47,16,24
+5/6/2024 6:33:29 PM,Random Forest,Rock,Main Stage,6960,780,3,95,27,24
+4/23/2024 9:54:44 PM,Hello World,Rock,Main Stage,8144,4940,8,77,37,38
+8/1/2023 9:01:26 PM,Epsilon Greedy,Hip Hop,Indie Arena,8269,1698,4,73,39,48
+8/5/2023 9:30:23 AM,The Algorithmics,Hip Hop,VIP Lounge,8842,4278,3,38,42,42
+10/19/2023 9:40:21 AM,The Query Strings,Hip Hop,VIP Lounge,5820,2180,6,96,25,41
+6/24/2023 6:00:43 PM,Random Forest,Indie,Main Stage,9233,4416,8,83,47,54
+11/18/2023 2:22:24 PM,Random Forest,Hip Hop,Indie Arena,827,827,9,55,38,15
+11/7/2023 10:37:24 PM,Cluster Funk,Electronic,VIP Lounge,5075,2208,6,114,16,47
+6/26/2023 2:33:19 AM,Parallel Processors,Rock,VIP Lounge,3343,2966,5,55,44,18
+5/8/2023 2:54:45 PM,Recursive Rhythms,Indie,VIP Lounge,748,748,2,63,31,21
+2/28/2024 12:45:36 AM,Cache Miss,Rock,Main Stage,5195,5195,2,37,54,23
+7/9/2023 7:28:40 AM,Bit Rate,Hip Hop,Indie Arena,6714,6315,9,39,48,30
+2/28/2024 2:21:08 PM,The Algorithmics,Indie,DJ Tent,7235,4186,2,77,52,19
+12/8/2023 8:48:00 AM,The Query Strings,Jazz,Indie Arena,1109,1109,2,84,36,48
+10/18/2023 4:59:04 PM,The Query Strings,Electronic,Indie Arena,1650,1650,3,83,19,37
+1/4/2024 3:08:10 PM,Random Forest,Hip Hop,Main Stage,9095,2860,3,107,54,57
+8/20/2023 11:07:48 AM,Hello World,Hip Hop,VIP Lounge,7592,6202,4,69,30,39
+4/12/2023 7:04:50 AM,Parallel Processors,Electronic,VIP Lounge,3501,62,7,44,27,27
+9/28/2023 6:09:08 PM,The Query Strings,Electronic,Main Stage,7547,5988,9,110,40,38
+8/8/2023 2:22:04 AM,Random Forest,Jazz,Main Stage,5524,5524,2,47,45,25
+11/10/2023 1:11:19 PM,The Query Strings,Hip Hop,Main Stage,4341,4341,4,52,53,31
+10/9/2023 7:17:01 PM,Recursive Rhythms,Hip Hop,Main Stage,3261,3261,9,91,37,51
+5/18/2023 4:14:57 AM,Bit Rate,Rock,Main Stage,4255,3671,2,75,26,27
+1/2/2024 11:16:39 PM,Parallel Processors,Indie,DJ Tent,7578,3733,1,116,28,41
+9/24/2023 1:46:09 PM,Random Forest,Indie,Indie Arena,8819,7922,8,68,32,34
+3/3/2024 9:01:02 AM,Cluster Funk,Rock,Indie Arena,9315,5360,9,44,41,47
+10/23/2023 10:35:53 PM,Bit Rate,Indie,Indie Arena,6717,702,7,82,42,56
+11/6/2023 4:47:27 AM,Bit Rate,Electronic,VIP Lounge,5760,5760,8,117,32,46
+4/19/2023 8:33:51 PM,The Algorithmics,Indie,DJ Tent,8724,8724,4,93,30,22
+8/24/2023 6:34:53 AM,Cache Miss,Indie,Indie Arena,1276,1276,4,92,30,43
+5/14/2023 8:10:10 PM,Parallel Processors,Rock,VIP Lounge,8056,1695,2,109,27,54
+2/20/2024 8:51:16 PM,The Algorithmics,Jazz,DJ Tent,8692,4562,8,45,43,33
+9/2/2023 4:04:33 AM,Random Forest,Indie,DJ Tent,2333,2333,2,99,23,20
+9/19/2023 9:14:37 AM,Parallel Processors,Indie,VIP Lounge,4800,4800,9,95,40,58
+7/25/2023 9:10:47 AM,Infinite Loop,Jazz,DJ Tent,6006,3738,4,42,42,53
+3/30/2024 8:44:44 AM,Parallel Processors,Rock,VIP Lounge,7960,7739,1,76,55,55
+10/5/2023 7:05:24 AM,The Query Strings,Jazz,Indie Arena,7626,1429,4,38,27,35
+2/29/2024 9:43:46 AM,The Algorithmics,Rock,VIP Lounge,5659,4293,3,92,50,36
+5/22/2023 12:51:26 AM,Epsilon Greedy,Electronic,DJ Tent,6832,6832,6,63,23,56
+4/13/2023 7:11:23 PM,Cache Miss,Rock,Indie Arena,2613,2613,7,110,28,24
+3/6/2024 10:52:46 PM,Cluster Funk,Electronic,Indie Arena,7930,7869,8,58,26,24
+6/2/2023 9:08:44 AM,Syntax Error,Electronic,Main Stage,7044,7044,2,66,46,43
+4/30/2023 5:56:10 AM,Random Forest,Rock,Main Stage,8010,2703,6,72,52,30
+5/15/2023 2:37:55 PM,Epsilon Greedy,Hip Hop,DJ Tent,5749,5661,6,115,17,15
+11/27/2023 1:51:06 AM,Random Forest,Rock,VIP Lounge,1196,1196,5,93,30,31
+11/7/2023 3:37:03 PM,Hello World,Indie,VIP Lounge,9220,3973,7,53,34,44
+12/12/2023 9:48:20 PM,The Query Strings,Indie,DJ Tent,2051,2051,3,100,46,40
+10/16/2023 7:26:02 PM,Neural Nets,Hip Hop,Indie Arena,9846,5962,4,63,37,33
+7/6/2023 7:08:52 PM,Segmentation Fault,Electronic,DJ Tent,9286,5180,9,77,31,35
+11/8/2023 10:28:13 PM,Byte Beat,Hip Hop,DJ Tent,7899,5489,4,41,30,31
+2/21/2024 7:10:08 AM,Hello World,Indie,Indie Arena,8904,7930,3,52,52,54
+4/25/2024 6:17:59 PM,The Algorithmics,Hip Hop,VIP Lounge,695,695,2,108,22,35
+1/14/2024 6:02:45 AM,Epsilon Greedy,Rock,DJ Tent,7975,1775,5,42,33,55
+4/13/2023 12:17:58 AM,Hello World,Hip Hop,VIP Lounge,9133,9133,4,116,44,54
+3/15/2024 4:23:39 PM,The Data Wranglers,Electronic,DJ Tent,4539,4539,8,74,48,59
+12/21/2023 12:41:06 PM,Random Forest,Rock,Indie Arena,6072,4834,7,94,28,33
+11/25/2023 7:14:47 AM,Random Forest,Jazz,Indie Arena,958,958,6,76,36,21
+12/3/2023 9:02:47 PM,Infinite Loop,Indie,Main Stage,5619,1282,2,87,58,31
+3/21/2024 12:42:43 AM,Recursive Rhythms,Indie,Indie Arena,7485,7485,3,34,31,15
+5/19/2023 11:24:29 PM,Byte Beat,Hip Hop,Main Stage,8736,8388,9,106,29,51
+4/15/2024 8:36:30 PM,Byte Beat,Rock,DJ Tent,4417,4417,9,34,46,20
+4/13/2024 12:07:03 AM,The Data Wranglers,Jazz,VIP Lounge,3554,3554,5,89,27,40
+3/1/2024 10:47:32 PM,The Query Strings,Rock,Indie Arena,1130,1130,3,50,35,16
+2/20/2024 2:45:07 AM,Segmentation Fault,Indie,Indie Arena,9587,3727,2,53,54,46
+8/31/2023 4:28:19 PM,Bit Rate,Rock,Indie Arena,8006,6337,8,47,47,19
+8/14/2023 3:16:49 PM,Bit Rate,Jazz,DJ Tent,1547,1547,6,50,41,51
+10/23/2023 3:13:07 AM,Parallel Processors,Hip Hop,Main Stage,2950,1459,7,83,49,45
+7/18/2023 1:49:25 AM,Neural Nets,Electronic,DJ Tent,8206,8206,1,39,30,26
+5/6/2024 5:42:05 PM,Recursive Rhythms,Rock,VIP Lounge,7251,306,1,53,42,49
+9/21/2023 11:40:35 AM,Syntax Error,Electronic,DJ Tent,9603,1771,2,114,48,44
+4/19/2024 9:07:57 PM,Neural Nets,Indie,VIP Lounge,7052,1473,3,118,15,20
+8/23/2023 11:21:15 AM,The Algorithmics,Hip Hop,Indie Arena,4155,4155,1,89,55,29
+10/18/2023 1:50:04 PM,Cluster Funk,Hip Hop,VIP Lounge,5502,3040,5,86,45,29
+5/24/2023 7:34:32 PM,The Algorithmics,Rock,VIP Lounge,9381,1245,3,52,50,30
+9/19/2023 5:25:25 PM,Infinite Loop,Hip Hop,Main Stage,1772,1772,1,51,58,34
+4/21/2023 2:48:00 PM,The Algorithmics,Rock,VIP Lounge,4632,4415,8,97,47,27
+2/6/2024 5:25:15 PM,Syntax Error,Rock,VIP Lounge,5024,1294,6,63,47,58
+5/26/2023 12:19:18 AM,Cluster Funk,Electronic,DJ Tent,6185,6185,9,99,53,56
+1/11/2024 7:18:52 AM,The Query Strings,Hip Hop,Indie Arena,7834,5352,3,57,32,45
+8/15/2023 9:11:25 AM,Cluster Funk,Rock,DJ Tent,4964,1356,9,68,37,48
+8/10/2023 1:06:21 PM,Cluster Funk,Electronic,DJ Tent,9416,2452,9,71,37,43
+6/15/2023 4:32:28 PM,The Data Wranglers,Jazz,Indie Arena,1321,546,1,52,29,17
+6/5/2023 2:23:24 PM,The Data Wranglers,Electronic,Indie Arena,2960,2960,3,99,40,23
+8/19/2023 2:58:36 AM,Cluster Funk,Electronic,VIP Lounge,8528,959,6,109,44,25
+4/23/2024 4:17:43 PM,Recursive Rhythms,Rock,VIP Lounge,9436,422,8,31,39,25
+3/28/2024 2:56:26 PM,Hello World,Indie,Main Stage,3353,3353,4,53,59,39
+7/6/2023 7:30:07 PM,Recursive Rhythms,Indie,DJ Tent,3882,1394,5,46,30,36
+6/19/2023 1:34:23 AM,Syntax Error,Indie,Indie Arena,7057,7057,9,94,53,56
+1/2/2024 9:30:52 AM,Cache Miss,Electronic,VIP Lounge,866,866,6,99,59,23
+1/17/2024 11:06:00 AM,Cache Miss,Rock,Indie Arena,2781,2781,7,98,28,34
+8/14/2023 11:00:41 PM,Parallel Processors,Hip Hop,VIP Lounge,7810,2834,7,89,31,35
+2/17/2024 6:43:05 AM,Parallel Processors,Electronic,Main Stage,7582,7582,4,79,26,24
+5/10/2023 3:20:51 AM,The Query Strings,Electronic,Main Stage,5186,1745,4,41,43,36
+5/19/2023 1:29:51 AM,Neural Nets,Rock,Indie Arena,8064,1957,4,76,46,43
+6/28/2023 7:27:37 PM,Infinite Loop,Jazz,Main Stage,2765,2765,5,96,38,23
+4/24/2023 11:00:03 AM,Byte Beat,Electronic,Indie Arena,3613,830,5,94,27,19
+10/7/2023 9:16:08 AM,The Query Strings,Jazz,VIP Lounge,595,595,8,56,34,54
+1/1/2024 3:46:49 AM,Cluster Funk,Jazz,DJ Tent,5922,1453,9,77,29,25
+6/8/2023 5:12:50 AM,Recursive Rhythms,Indie,Main Stage,2172,1476,2,117,18,15
+4/16/2024 9:36:33 AM,The Data Wranglers,Rock,VIP Lounge,7895,7895,7,91,48,56
+4/14/2024 10:41:30 AM,Parallel Processors,Jazz,DJ Tent,8629,5918,1,73,42,15
+4/15/2023 7:58:56 PM,Random Forest,Rock,DJ Tent,4049,60,1,48,16,53
+4/17/2024 11:37:07 PM,Hello World,Indie,DJ Tent,6133,6133,4,88,44,19
+2/26/2024 12:19:12 PM,Recursive Rhythms,Rock,VIP Lounge,8428,8428,7,37,40,36
+12/9/2023 9:41:49 AM,Bit Rate,Electronic,VIP Lounge,2655,2655,2,84,40,40
+9/11/2023 6:09:43 PM,Epsilon Greedy,Jazz,Indie Arena,6470,6470,2,76,34,20
+3/31/2024 5:45:50 AM,Recursive Rhythms,Rock,DJ Tent,4515,3053,1,31,56,46
+8/17/2023 12:14:49 AM,The Algorithmics,Hip Hop,DJ Tent,6059,6059,2,68,42,25
+1/14/2024 4:46:05 AM,The Algorithmics,Rock,DJ Tent,9207,7245,7,74,34,24
+8/5/2023 8:41:49 PM,Bit Rate,Jazz,Indie Arena,6093,6093,9,61,25,53
+9/23/2023 10:46:59 PM,The Data Wranglers,Indie,DJ Tent,5121,3138,6,94,24,48
+11/20/2023 12:48:45 PM,Cache Miss,Indie,VIP Lounge,3007,1839,2,67,37,45
+1/1/2024 7:20:44 AM,Infinite Loop,Jazz,DJ Tent,3014,3014,9,106,51,26
+4/16/2023 11:19:52 PM,Recursive Rhythms,Electronic,Main Stage,3970,3970,7,40,55,58
+10/4/2023 6:28:23 AM,Syntax Error,Electronic,VIP Lounge,9290,7648,1,39,33,30
+3/15/2024 4:37:00 AM,Recursive Rhythms,Indie,Indie Arena,5185,4888,9,88,59,52
+7/21/2023 7:07:40 AM,Bit Rate,Indie,DJ Tent,6646,5922,2,119,32,17
+6/11/2023 2:02:40 PM,The Data Wranglers,Jazz,Main Stage,495,495,4,84,41,16
+9/14/2023 11:25:05 AM,Parallel Processors,Electronic,Indie Arena,1038,1038,9,49,20,19
+4/25/2023 3:59:38 AM,Hello World,Indie,Indie Arena,9928,9318,4,110,24,25
+9/29/2023 12:59:13 PM,Syntax Error,Electronic,VIP Lounge,2610,1023,3,46,16,39
+5/19/2023 1:43:15 PM,Recursive Rhythms,Indie,Indie Arena,4736,4736,1,97,38,49
+1/20/2024 12:23:58 AM,Parallel Processors,Rock,Indie Arena,1749,1749,7,34,52,49
+12/25/2023 4:39:22 PM,Byte Beat,Hip Hop,Indie Arena,3790,3790,6,89,42,36
+12/20/2023 10:43:48 PM,The Algorithmics,Rock,Indie Arena,3535,3456,4,52,42,51
+9/29/2023 9:41:27 AM,Cluster Funk,Indie,DJ Tent,3301,3301,6,75,59,36
+6/12/2023 6:58:32 PM,Random Forest,Hip Hop,DJ Tent,4279,4279,6,81,53,25
+10/5/2023 2:11:02 AM,Cache Miss,Hip Hop,DJ Tent,8505,3179,4,39,16,46
+4/12/2023 10:40:06 PM,Cache Miss,Indie,DJ Tent,3337,154,6,75,19,49
+12/23/2023 12:14:35 PM,The Algorithmics,Indie,Main Stage,3962,3962,8,57,25,45
+5/7/2023 1:08:29 PM,Infinite Loop,Electronic,DJ Tent,158,158,3,72,24,59
+6/5/2023 8:58:42 PM,The Algorithmics,Indie,Indie Arena,5038,3617,4,55,57,22
+3/10/2024 5:48:11 AM,Segmentation Fault,Jazz,DJ Tent,3071,3071,1,84,16,34
+9/14/2023 8:16:53 PM,Neural Nets,Indie,DJ Tent,9819,4440,4,77,29,56
+7/21/2023 2:17:13 AM,Parallel Processors,Jazz,VIP Lounge,8414,6861,9,58,53,48
+3/19/2024 8:32:04 AM,Byte Beat,Indie,Indie Arena,9728,1231,8,56,55,18
+11/13/2023 6:16:25 AM,Cache Miss,Electronic,DJ Tent,9454,4694,4,47,51,32
+4/25/2024 3:22:56 PM,Neural Nets,Jazz,DJ Tent,3445,3445,7,89,21,18
+9/1/2023 2:51:46 PM,Cache Miss,Rock,DJ Tent,2586,2586,3,103,34,34
+8/11/2023 2:53:45 AM,Syntax Error,Jazz,Main Stage,661,661,9,98,48,23
+8/2/2023 1:21:34 AM,Cluster Funk,Electronic,DJ Tent,4081,4081,4,103,49,30
+4/22/2023 5:58:12 PM,Neural Nets,Jazz,VIP Lounge,6361,5989,2,50,48,40
+2/14/2024 3:13:50 AM,Hello World,Indie,Indie Arena,1837,1837,5,53,36,52
+5/8/2024 9:49:14 AM,Parallel Processors,Indie,Indie Arena,9196,1824,2,32,45,39
+5/1/2023 8:37:16 AM,Segmentation Fault,Electronic,DJ Tent,3654,3654,6,91,37,18
+10/23/2023 6:08:05 PM,Recursive Rhythms,Hip Hop,DJ Tent,9226,496,1,31,33,55
+5/31/2023 9:36:52 PM,Cluster Funk,Indie,DJ Tent,7195,158,6,95,18,59
+7/26/2023 2:05:16 PM,Bit Rate,Rock,Indie Arena,8366,3289,4,71,38,55
+4/25/2024 3:09:25 PM,Hello World,Electronic,Indie Arena,394,394,3,63,34,52
+6/19/2023 12:36:40 AM,Random Forest,Jazz,Main Stage,8312,4103,2,71,53,33
+3/5/2024 2:53:23 PM,Byte Beat,Jazz,VIP Lounge,9330,4587,7,49,42,28
+8/24/2023 2:54:48 AM,Byte Beat,Rock,Main Stage,5430,5430,9,97,53,35
+5/28/2023 4:46:09 PM,Epsilon Greedy,Indie,VIP Lounge,4755,1295,3,74,31,29
+2/9/2024 9:33:36 PM,Epsilon Greedy,Electronic,Main Stage,1209,1209,6,104,33,17
+6/25/2023 2:41:53 PM,Parallel Processors,Rock,Indie Arena,3871,3871,9,71,49,51
+5/24/2023 9:49:31 AM,Neural Nets,Indie,Main Stage,8663,7791,2,76,46,30
+9/1/2023 9:59:51 PM,Syntax Error,Electronic,VIP Lounge,6223,5155,7,34,53,28
+11/8/2023 1:37:29 AM,Byte Beat,Jazz,DJ Tent,7747,2972,5,118,49,23
+8/15/2023 12:14:44 AM,Infinite Loop,Electronic,VIP Lounge,1274,1274,5,78,44,21
+3/6/2024 9:59:23 PM,Bit Rate,Hip Hop,DJ Tent,1264,1264,7,66,31,28
+6/5/2023 7:28:54 PM,Parallel Processors,Electronic,Indie Arena,9384,2851,9,63,56,20
+2/29/2024 2:05:03 PM,Neural Nets,Hip Hop,VIP Lounge,9575,7031,4,102,43,35
+2/16/2024 8:23:31 AM,Epsilon Greedy,Electronic,Main Stage,9137,8271,9,99,20,29
+8/26/2023 8:16:29 AM,Bit Rate,Hip Hop,VIP Lounge,8812,6552,9,47,31,22
+10/15/2023 11:27:54 PM,Random Forest,Jazz,DJ Tent,4566,4566,4,107,31,48
+11/18/2023 2:46:55 PM,Cache Miss,Indie,Indie Arena,5638,5638,3,48,28,54
+6/13/2023 2:47:50 AM,Hello World,Hip Hop,Main Stage,7211,7211,2,107,38,15
+11/10/2023 3:59:44 PM,Parallel Processors,Hip Hop,VIP Lounge,8534,414,9,69,51,46
+10/26/2023 11:59:35 PM,Bit Rate,Jazz,DJ Tent,2900,1850,2,46,54,19
+1/19/2024 7:55:24 PM,Syntax Error,Hip Hop,Main Stage,4707,4707,6,89,53,44
+5/20/2023 5:32:24 PM,The Data Wranglers,Rock,Indie Arena,7362,7362,5,71,46,36
+6/14/2023 12:47:57 AM,Parallel Processors,Jazz,Main Stage,1641,1641,5,110,50,34
+6/28/2023 2:36:36 AM,Neural Nets,Rock,Indie Arena,2865,2865,4,101,51,30
+4/24/2023 3:48:42 AM,Random Forest,Jazz,Main Stage,4591,4591,6,94,28,21
+5/9/2023 4:59:46 PM,Recursive Rhythms,Hip Hop,VIP Lounge,3183,229,5,82,41,21
+3/25/2024 4:18:36 PM,Hello World,Rock,DJ Tent,5456,3923,4,36,33,16
+9/17/2023 1:55:46 AM,Byte Beat,Hip Hop,VIP Lounge,1957,1957,9,34,45,28
+4/21/2024 4:57:47 PM,The Algorithmics,Jazz,VIP Lounge,869,869,6,53,23,45
+4/13/2023 8:28:14 PM,Cache Miss,Hip Hop,Indie Arena,1522,823,3,57,52,55
+12/1/2023 6:42:31 AM,Hello World,Rock,Indie Arena,8698,4510,6,91,31,28
+3/30/2024 5:46:44 PM,Recursive Rhythms,Rock,Indie Arena,3072,402,1,46,33,19
+3/28/2024 10:06:57 AM,Segmentation Fault,Hip Hop,VIP Lounge,1972,1972,5,49,58,25
+4/27/2024 6:30:58 PM,Epsilon Greedy,Electronic,Main Stage,5699,5252,6,32,18,54
+7/26/2023 6:52:15 PM,Hello World,Jazz,Main Stage,2369,2369,8,66,25,19
+11/21/2023 1:08:00 PM,The Data Wranglers,Jazz,VIP Lounge,5375,4557,9,119,36,43
+12/9/2023 10:39:59 PM,Random Forest,Hip Hop,VIP Lounge,4849,4849,3,44,18,25
+9/28/2023 10:00:15 AM,Recursive Rhythms,Electronic,DJ Tent,6671,167,2,80,31,19
+4/30/2024 1:32:27 PM,Cache Miss,Rock,Indie Arena,9473,531,4,77,22,46
+4/30/2023 7:45:01 PM,Infinite Loop,Indie,Indie Arena,5172,4337,8,37,48,50
+8/15/2023 3:55:47 AM,The Algorithmics,Indie,VIP Lounge,9731,6852,8,42,25,29
+7/12/2023 9:23:08 AM,Cluster Funk,Hip Hop,VIP Lounge,5563,5563,3,77,45,33
+5/7/2023 9:54:38 PM,Hello World,Electronic,Main Stage,7550,4527,4,32,25,36
+2/5/2024 12:31:15 PM,Infinite Loop,Electronic,VIP Lounge,8520,6583,3,94,52,48
+5/29/2023 6:46:04 AM,Infinite Loop,Jazz,Main Stage,4059,293,2,102,35,31
+1/9/2024 8:43:55 PM,The Query Strings,Rock,VIP Lounge,1413,1413,4,60,44,26
+8/25/2023 5:10:50 AM,Recursive Rhythms,Electronic,DJ Tent,7947,915,6,55,24,39
+12/4/2023 6:45:04 PM,The Data Wranglers,Indie,DJ Tent,1170,1170,5,110,40,31
+11/28/2023 3:55:53 AM,The Algorithmics,Rock,Main Stage,9266,5379,3,85,41,24
+8/14/2023 5:15:14 AM,The Data Wranglers,Rock,Indie Arena,3385,653,2,63,22,42
+1/17/2024 3:11:46 PM,The Query Strings,Hip Hop,DJ Tent,9049,5806,9,38,53,32
+11/3/2023 3:14:30 AM,Segmentation Fault,Electronic,Main Stage,3195,3195,1,91,22,32
+9/21/2023 11:59:02 PM,Cluster Funk,Hip Hop,VIP Lounge,420,420,9,42,22,59
+8/21/2023 8:26:49 PM,Epsilon Greedy,Electronic,VIP Lounge,2421,2065,1,98,48,46
+11/9/2023 12:47:55 AM,Recursive Rhythms,Jazz,Main Stage,655,655,7,70,30,28
+8/25/2023 7:34:51 PM,Random Forest,Hip Hop,Indie Arena,5039,3430,6,106,55,30
+1/27/2024 3:39:15 PM,Cache Miss,Hip Hop,Main Stage,5532,3820,7,30,27,32
+4/18/2024 2:39:49 PM,Random Forest,Indie,Main Stage,1486,1486,3,118,37,30
+8/4/2023 8:32:22 PM,Cluster Funk,Hip Hop,DJ Tent,4863,1663,3,76,26,31
+9/24/2023 4:27:43 AM,Random Forest,Electronic,Main Stage,6954,1929,1,33,41,21
+10/9/2023 8:35:30 PM,The Query Strings,Indie,Main Stage,7737,5422,4,92,36,26
+4/2/2024 7:33:24 AM,The Data Wranglers,Hip Hop,VIP Lounge,4941,4158,2,81,46,48
+4/20/2024 10:47:26 AM,Random Forest,Hip Hop,DJ Tent,3967,3967,8,39,41,24
+1/19/2024 2:30:37 PM,Recursive Rhythms,Jazz,VIP Lounge,3893,3893,3,57,16,19
+9/21/2023 4:02:16 PM,Neural Nets,Hip Hop,VIP Lounge,7473,7473,7,35,59,35
+9/8/2023 5:57:32 AM,Infinite Loop,Rock,Indie Arena,2613,198,7,56,47,17
+7/7/2023 9:51:15 AM,Parallel Processors,Indie,Indie Arena,3903,1804,9,41,40,33
+4/20/2024 4:32:54 PM,Infinite Loop,Rock,DJ Tent,2427,2427,6,91,42,59
+6/2/2023 4:46:27 AM,Hello World,Indie,DJ Tent,8909,6731,1,81,33,58
+12/24/2023 10:55:31 PM,Cluster Funk,Jazz,Indie Arena,2265,2265,8,77,57,49
+10/10/2023 1:51:41 PM,Segmentation Fault,Hip Hop,Indie Arena,3408,3408,1,96,19,20
+5/11/2023 5:03:04 PM,Syntax Error,Hip Hop,Indie Arena,6552,6552,3,75,47,28
+10/25/2023 11:45:17 PM,Syntax Error,Hip Hop,Indie Arena,8167,5442,5,103,34,18
+8/23/2023 9:35:33 PM,Neural Nets,Indie,Indie Arena,7742,7742,8,44,44,59
+5/23/2023 11:06:27 AM,Bit Rate,Hip Hop,VIP Lounge,6504,3102,9,100,59,32
+12/19/2023 7:59:50 PM,The Query Strings,Rock,DJ Tent,1092,1092,7,65,22,43
+10/18/2023 9:32:00 PM,Byte Beat,Hip Hop,VIP Lounge,5524,4268,9,43,52,49
+3/11/2024 3:31:54 AM,The Query Strings,Jazz,VIP Lounge,9669,4853,3,107,31,52
+5/26/2023 4:36:49 PM,Infinite Loop,Rock,Main Stage,4481,2427,5,32,58,30
+11/6/2023 5:27:35 AM,Segmentation Fault,Hip Hop,VIP Lounge,3274,3274,8,96,15,34
+9/23/2023 5:46:29 AM,Segmentation Fault,Hip Hop,Indie Arena,4882,3232,1,115,17,38
+9/13/2023 7:36:51 PM,Neural Nets,Electronic,Indie Arena,9597,3210,8,48,40,49
+4/28/2024 2:51:06 AM,Hello World,Indie,Main Stage,5660,5660,7,105,45,58
+12/7/2023 9:55:21 AM,Cluster Funk,Rock,Main Stage,7560,7560,1,83,22,33
+10/3/2023 10:48:29 PM,Parallel Processors,Electronic,Main Stage,3178,2636,6,98,57,18
+12/3/2023 1:40:03 AM,The Algorithmics,Jazz,Main Stage,3083,2698,1,39,22,47
+2/10/2024 4:00:35 AM,Epsilon Greedy,Indie,Main Stage,7359,7359,2,62,49,16
+9/3/2023 11:48:33 PM,The Algorithmics,Rock,VIP Lounge,6154,1767,5,42,53,27
+8/12/2023 5:44:57 AM,The Data Wranglers,Hip Hop,Main Stage,2623,2623,2,80,42,59
+2/10/2024 4:41:53 AM,Recursive Rhythms,Rock,VIP Lounge,9777,7457,1,61,18,44
+12/3/2023 11:19:54 AM,Neural Nets,Hip Hop,DJ Tent,4681,920,6,104,30,48
+12/25/2023 8:21:49 AM,Bit Rate,Indie,Main Stage,5709,3624,8,53,27,44
+1/15/2024 9:57:48 PM,Segmentation Fault,Hip Hop,Main Stage,2101,2101,8,64,34,38
+2/18/2024 1:24:53 PM,Syntax Error,Jazz,VIP Lounge,1487,1487,8,112,19,58
+5/7/2024 9:29:49 PM,Byte Beat,Hip Hop,DJ Tent,6652,6652,6,99,51,47
+6/6/2023 2:59:33 PM,Parallel Processors,Jazz,VIP Lounge,1130,1130,3,69,34,55
+9/6/2023 3:30:48 AM,Cache Miss,Indie,VIP Lounge,1320,1320,1,83,38,24
+8/9/2023 12:17:24 AM,Recursive Rhythms,Indie,Main Stage,6135,5819,2,73,50,32
+12/5/2023 10:24:50 AM,The Algorithmics,Rock,Indie Arena,9910,5783,5,91,48,33
+10/3/2023 8:12:18 AM,Segmentation Fault,Jazz,Indie Arena,9555,9555,5,97,59,21
+4/23/2023 12:03:10 PM,Hello World,Jazz,VIP Lounge,6623,3290,1,62,48,33
+10/8/2023 4:50:58 PM,Bit Rate,Electronic,Main Stage,8174,8174,1,106,33,38
+5/18/2023 2:33:45 PM,Hello World,Electronic,DJ Tent,9163,4943,9,85,31,29
+10/11/2023 10:03:33 AM,Segmentation Fault,Electronic,Indie Arena,934,934,2,65,19,55
+7/30/2023 6:12:15 PM,Bit Rate,Hip Hop,DJ Tent,9210,936,7,83,39,56
+2/5/2024 3:43:35 PM,Hello World,Electronic,Indie Arena,1824,1824,4,48,32,37
+4/21/2023 11:32:08 AM,Bit Rate,Jazz,Main Stage,6698,5368,7,72,22,18
+11/14/2023 10:52:40 AM,Neural Nets,Hip Hop,VIP Lounge,2513,2308,8,41,41,52
+2/2/2024 9:46:42 PM,The Algorithmics,Indie,DJ Tent,9605,4432,5,40,29,18
+4/23/2024 12:09:41 AM,Segmentation Fault,Rock,DJ Tent,6093,1835,1,99,59,19
+1/20/2024 6:34:05 AM,Segmentation Fault,Electronic,VIP Lounge,4598,4598,4,41,27,55
+5/2/2024 11:56:20 AM,Bit Rate,Indie,DJ Tent,2205,345,3,70,30,58
+8/30/2023 12:56:30 AM,Cluster Funk,Jazz,Indie Arena,2668,2647,5,54,36,37
+5/20/2023 2:58:02 PM,The Data Wranglers,Rock,VIP Lounge,9430,730,6,32,34,54
+4/16/2023 1:17:54 PM,Recursive Rhythms,Indie,Indie Arena,309,309,2,32,27,51
+9/30/2023 4:14:57 PM,Byte Beat,Rock,Indie Arena,9356,4348,7,113,34,25
+4/30/2023 9:02:42 AM,Hello World,Electronic,Main Stage,5011,374,3,57,16,25
+12/24/2023 6:43:44 AM,Cluster Funk,Jazz,Indie Arena,2320,2320,1,52,49,27
+5/1/2023 4:19:10 PM,Infinite Loop,Rock,Main Stage,333,333,3,77,33,28
+5/26/2023 3:32:58 PM,Infinite Loop,Indie,DJ Tent,892,892,9,96,59,22
+8/12/2023 10:12:23 AM,Epsilon Greedy,Electronic,DJ Tent,3210,810,6,71,51,39
+10/2/2023 6:29:22 AM,Epsilon Greedy,Electronic,Main Stage,2266,2266,6,117,20,32
+2/19/2024 6:27:47 PM,Random Forest,Indie,Indie Arena,8626,8626,4,69,28,58
+5/26/2023 7:42:34 AM,Parallel Processors,Indie,VIP Lounge,9651,956,8,35,18,58
+6/17/2023 5:13:39 PM,Neural Nets,Rock,VIP Lounge,5293,5293,5,49,36,32
+1/11/2024 12:43:07 PM,Neural Nets,Hip Hop,Main Stage,1314,414,7,40,53,24
+10/27/2023 2:20:32 AM,The Query Strings,Electronic,DJ Tent,4519,4519,9,56,50,21
+11/3/2023 12:07:22 PM,Recursive Rhythms,Rock,DJ Tent,7414,3463,5,50,48,58
+5/25/2023 8:47:25 PM,Bit Rate,Indie,VIP Lounge,8575,8077,5,42,41,28
+12/7/2023 8:23:15 AM,Recursive Rhythms,Rock,Main Stage,312,312,4,115,21,29
+5/22/2023 1:45:48 AM,Byte Beat,Indie,VIP Lounge,1758,1758,6,64,17,30
+7/24/2023 6:10:46 PM,Syntax Error,Jazz,Indie Arena,5124,3131,2,76,47,16
+3/2/2024 11:44:05 PM,Segmentation Fault,Indie,Indie Arena,9709,5498,3,115,16,44
+6/2/2023 12:54:28 AM,Hello World,Indie,Main Stage,6017,3308,1,57,56,44
+4/7/2024 12:29:46 AM,Byte Beat,Indie,Main Stage,5241,2157,2,50,30,32
+10/28/2023 11:05:11 PM,Random Forest,Hip Hop,Indie Arena,1894,1894,2,47,39,45
+11/15/2023 3:08:59 AM,Infinite Loop,Indie,DJ Tent,6088,2983,8,60,29,58
+9/13/2023 4:59:23 PM,Infinite Loop,Electronic,Main Stage,8396,2879,8,89,38,27
+2/3/2024 10:10:41 PM,Recursive Rhythms,Electronic,Indie Arena,5678,5678,2,66,29,34
+9/23/2023 8:47:21 AM,The Query Strings,Rock,Indie Arena,5651,5056,6,50,45,49
+5/1/2023 10:19:55 PM,Cluster Funk,Hip Hop,DJ Tent,3945,1609,5,43,28,37
+2/11/2024 10:36:16 AM,Byte Beat,Rock,DJ Tent,7006,1791,3,118,28,56
+4/27/2023 2:46:01 AM,Cluster Funk,Electronic,DJ Tent,478,478,5,89,20,47
+4/5/2024 1:34:01 PM,Epsilon Greedy,Electronic,DJ Tent,3393,3393,5,52,28,52
+11/30/2023 8:52:05 PM,Infinite Loop,Jazz,VIP Lounge,3429,675,5,58,31,49
+1/30/2024 4:11:52 AM,Hello World,Indie,DJ Tent,4908,1740,3,76,32,50
+3/13/2024 2:46:57 PM,Recursive Rhythms,Electronic,VIP Lounge,8037,8037,3,59,34,34
+5/26/2023 1:56:29 AM,Random Forest,Rock,Main Stage,324,324,4,119,31,17
+9/12/2023 6:47:52 PM,Segmentation Fault,Rock,Indie Arena,837,837,7,113,30,22
+3/27/2024 10:51:49 PM,Syntax Error,Indie,VIP Lounge,335,335,2,67,54,54
+6/18/2023 8:54:43 PM,Infinite Loop,Indie,Main Stage,811,811,4,112,53,46
+2/10/2024 8:24:40 PM,The Algorithmics,Jazz,Main Stage,6088,6057,4,56,46,43
+2/17/2024 11:19:34 AM,The Algorithmics,Hip Hop,VIP Lounge,1988,1988,1,118,58,21
+11/17/2023 1:51:16 AM,Recursive Rhythms,Rock,Main Stage,7273,7273,8,116,23,16
+2/25/2024 7:01:37 AM,Hello World,Indie,Main Stage,1359,1359,1,44,41,35
+5/5/2024 12:24:41 AM,Syntax Error,Rock,VIP Lounge,5346,4540,8,88,47,20
+3/19/2024 8:19:04 PM,Syntax Error,Indie,Main Stage,7371,7371,7,32,24,42
+3/5/2024 2:00:32 PM,Parallel Processors,Electronic,DJ Tent,848,848,9,39,31,56
+12/17/2023 3:09:53 AM,The Data Wranglers,Rock,DJ Tent,3651,3651,8,108,50,50
+4/21/2024 9:50:48 AM,Neural Nets,Electronic,Indie Arena,6500,2720,5,109,31,46
+5/10/2023 1:17:27 PM,Random Forest,Rock,Main Stage,6743,6743,8,46,32,59
+2/16/2024 8:23:40 PM,Byte Beat,Hip Hop,Indie Arena,8801,2630,3,112,37,56
+4/28/2023 6:40:52 PM,Hello World,Jazz,DJ Tent,1923,1923,7,40,48,23
+3/14/2024 7:28:02 PM,Infinite Loop,Electronic,DJ Tent,6952,6952,4,77,22,25
+3/5/2024 10:06:24 PM,Infinite Loop,Indie,DJ Tent,7877,2556,5,34,27,37
+1/14/2024 1:27:05 AM,Infinite Loop,Hip Hop,Main Stage,4332,4332,9,98,37,25
+6/14/2023 11:32:49 AM,The Algorithmics,Rock,Main Stage,6619,4350,7,93,34,16
+5/4/2024 11:38:26 PM,The Algorithmics,Electronic,DJ Tent,1877,1877,4,43,36,17
+4/26/2023 1:55:27 PM,Cache Miss,Rock,Indie Arena,1322,1322,6,79,37,25
+1/22/2024 9:01:55 AM,Neural Nets,Rock,Indie Arena,7730,7052,7,55,55,49
+7/20/2023 6:24:55 PM,The Algorithmics,Rock,VIP Lounge,1877,1877,9,101,49,29
+4/29/2024 3:15:37 AM,The Algorithmics,Jazz,DJ Tent,9596,6181,4,98,17,57
+9/2/2023 10:04:28 AM,Neural Nets,Jazz,Indie Arena,7590,7590,3,36,48,25
+11/12/2023 5:25:28 AM,Bit Rate,Indie,DJ Tent,4959,4587,8,45,47,45
+5/9/2023 1:15:54 PM,The Algorithmics,Electronic,Indie Arena,8993,2385,1,84,31,42
+9/21/2023 10:51:49 AM,Cache Miss,Hip Hop,VIP Lounge,8218,4371,9,107,59,42
+5/7/2023 11:01:57 AM,Syntax Error,Hip Hop,VIP Lounge,3089,3035,1,85,33,46
+4/7/2024 12:26:14 PM,Syntax Error,Hip Hop,DJ Tent,8443,609,2,33,44,39
+5/7/2024 10:44:07 AM,Parallel Processors,Rock,Indie Arena,1425,763,8,77,37,34
+12/16/2023 2:16:11 AM,Bit Rate,Jazz,Main Stage,9593,4643,9,46,29,42
+4/8/2024 5:49:10 PM,Infinite Loop,Electronic,VIP Lounge,5227,4038,7,65,28,39
+2/22/2024 8:58:11 PM,The Query Strings,Rock,DJ Tent,9098,6253,3,99,16,25
+4/14/2023 10:51:43 AM,The Algorithmics,Jazz,DJ Tent,2822,306,7,109,53,33
+6/21/2023 3:53:18 AM,Parallel Processors,Jazz,Indie Arena,4756,4756,6,67,32,42
+7/18/2023 1:10:18 AM,The Query Strings,Electronic,DJ Tent,1425,87,2,91,20,15
+9/22/2023 7:58:39 AM,Cache Miss,Electronic,VIP Lounge,4233,4233,3,77,46,19
+7/1/2023 6:03:28 PM,The Data Wranglers,Electronic,DJ Tent,9451,9451,5,39,35,24
+2/28/2024 12:26:51 PM,Epsilon Greedy,Rock,DJ Tent,2969,1882,4,65,54,56
+3/15/2024 6:37:30 AM,Cache Miss,Indie,Main Stage,1342,1342,2,58,42,48
+9/11/2023 6:49:53 PM,Epsilon Greedy,Electronic,Main Stage,8639,5217,4,107,41,50
+3/17/2024 10:27:57 PM,Hello World,Indie,VIP Lounge,1931,482,8,33,16,16
+9/8/2023 4:40:36 PM,Recursive Rhythms,Rock,Indie Arena,1669,1669,5,73,47,32
+3/5/2024 11:42:25 PM,The Data Wranglers,Indie,Main Stage,7346,6461,5,85,30,27
+7/26/2023 9:19:32 PM,Syntax Error,Hip Hop,Indie Arena,2018,1801,3,71,53,19
+10/5/2023 1:46:50 PM,Random Forest,Indie,VIP Lounge,6516,5047,8,42,36,34
+2/9/2024 11:44:46 AM,Parallel Processors,Electronic,Main Stage,3332,3332,6,75,57,16
+9/25/2023 4:36:16 AM,The Algorithmics,Rock,Indie Arena,3858,3858,2,111,27,25
+3/6/2024 9:02:10 PM,Syntax Error,Electronic,Main Stage,6097,306,2,62,16,44
+12/24/2023 5:34:31 PM,Epsilon Greedy,Hip Hop,VIP Lounge,2455,721,9,50,28,46
+5/5/2023 8:56:19 AM,Bit Rate,Electronic,VIP Lounge,9689,539,7,109,52,46
+2/18/2024 2:40:47 AM,Neural Nets,Electronic,Main Stage,1924,1924,9,108,55,52
+11/13/2023 4:17:26 PM,Recursive Rhythms,Electronic,Indie Arena,7380,2146,6,86,42,42
+8/16/2023 1:03:18 AM,Bit Rate,Jazz,DJ Tent,4160,1732,5,98,21,24
+5/3/2024 10:08:11 AM,Hello World,Hip Hop,DJ Tent,5424,2510,1,99,32,36
+6/1/2023 6:33:22 AM,Neural Nets,Electronic,Main Stage,504,504,6,96,55,31
+5/12/2023 8:36:20 AM,Parallel Processors,Electronic,Indie Arena,1821,1821,6,77,50,36
+5/31/2023 11:23:25 PM,The Data Wranglers,Electronic,DJ Tent,5416,2025,3,105,55,57
+8/23/2023 4:55:31 PM,Syntax Error,Rock,VIP Lounge,3945,3266,3,62,50,33
+8/17/2023 12:34:18 AM,Parallel Processors,Jazz,Indie Arena,4310,4310,3,65,58,31
+9/20/2023 10:58:27 AM,Epsilon Greedy,Rock,DJ Tent,164,164,3,62,18,38
+10/3/2023 10:37:18 AM,Parallel Processors,Jazz,Indie Arena,9591,5742,7,60,44,50
+7/17/2023 1:51:08 AM,Cluster Funk,Electronic,Main Stage,6482,6482,2,50,38,46
+9/12/2023 5:48:30 PM,The Algorithmics,Hip Hop,Indie Arena,9707,4989,2,56,34,50
+8/29/2023 7:06:16 PM,The Data Wranglers,Indie,DJ Tent,1068,1068,3,101,45,42
+2/26/2024 11:52:57 AM,The Algorithmics,Indie,Main Stage,468,468,7,91,38,28
+7/7/2023 4:43:32 PM,Bit Rate,Electronic,Indie Arena,8524,4579,3,55,21,50
+4/28/2024 7:04:48 AM,The Data Wranglers,Rock,VIP Lounge,2342,2342,7,95,40,20
+8/16/2023 1:47:37 AM,Cluster Funk,Hip Hop,DJ Tent,5102,5102,9,41,27,23
+9/12/2023 7:26:55 AM,Parallel Processors,Jazz,Main Stage,3183,1026,4,51,22,35
+4/24/2024 1:57:48 AM,Hello World,Electronic,Indie Arena,8173,7395,7,46,19,26
+7/29/2023 11:54:49 AM,Epsilon Greedy,Hip Hop,VIP Lounge,9212,95,9,36,58,44
+11/23/2023 11:55:00 PM,Recursive Rhythms,Hip Hop,DJ Tent,8980,1243,8,97,27,45
+9/12/2023 3:04:43 AM,Epsilon Greedy,Jazz,VIP Lounge,1569,1569,8,66,43,54
+8/21/2023 12:33:34 AM,Infinite Loop,Hip Hop,Indie Arena,4825,4825,9,67,34,18
+9/15/2023 3:40:11 PM,Neural Nets,Rock,Indie Arena,4359,4359,5,40,28,45
+5/18/2023 4:49:21 PM,The Data Wranglers,Rock,Main Stage,3722,296,5,30,46,41
+6/20/2023 4:39:10 AM,Parallel Processors,Rock,VIP Lounge,923,923,3,54,41,39
+4/29/2023 5:58:46 AM,The Data Wranglers,Hip Hop,Main Stage,3531,3531,5,71,39,19
+4/17/2023 10:46:29 AM,Segmentation Fault,Rock,DJ Tent,6628,686,8,81,18,20
+11/7/2023 5:21:05 PM,Random Forest,Jazz,Main Stage,4251,3825,5,53,35,19
+2/20/2024 6:14:20 PM,The Algorithmics,Hip Hop,DJ Tent,4313,2471,4,82,32,41
+3/6/2024 10:15:21 PM,The Data Wranglers,Indie,Indie Arena,7520,7520,8,85,53,22
+4/28/2024 4:12:29 AM,Byte Beat,Hip Hop,Indie Arena,9089,4233,7,92,29,23
+7/19/2023 4:08:14 AM,Random Forest,Jazz,VIP Lounge,879,762,6,110,52,29
+4/5/2024 1:12:27 PM,Recursive Rhythms,Indie,DJ Tent,2992,2992,5,37,38,50
+4/18/2023 9:58:01 PM,Recursive Rhythms,Hip Hop,Indie Arena,5634,5373,5,88,22,55
+1/18/2024 7:44:34 PM,Byte Beat,Rock,VIP Lounge,3406,3406,2,74,42,21
+11/16/2023 4:02:23 PM,Epsilon Greedy,Electronic,VIP Lounge,3002,3002,4,56,35,46
+6/10/2023 11:16:41 AM,Random Forest,Electronic,Main Stage,3818,3818,8,81,30,22
+7/25/2023 7:17:28 PM,The Data Wranglers,Rock,VIP Lounge,121,121,8,47,30,29
+5/9/2023 7:54:53 PM,Bit Rate,Electronic,Indie Arena,1600,1600,1,115,49,51
+1/14/2024 6:09:46 PM,Parallel Processors,Electronic,Main Stage,9134,9134,2,45,31,33
+11/15/2023 7:58:38 AM,Cluster Funk,Rock,DJ Tent,3741,3741,5,95,23,53
+12/27/2023 9:52:47 PM,Neural Nets,Rock,DJ Tent,5312,5312,9,34,49,20
+2/25/2024 7:45:23 AM,Byte Beat,Hip Hop,Indie Arena,291,291,7,111,43,33
+4/13/2024 1:16:13 AM,Parallel Processors,Hip Hop,Indie Arena,8687,3950,5,32,53,42
+4/14/2024 2:25:15 AM,Infinite Loop,Rock,Main Stage,7274,7274,1,110,32,31
+9/1/2023 8:34:11 AM,Bit Rate,Jazz,Main Stage,5214,5214,6,109,26,56
+9/19/2023 1:33:23 AM,Random Forest,Electronic,Indie Arena,4762,4618,8,99,33,33
+5/9/2023 7:49:12 PM,Parallel Processors,Hip Hop,Indie Arena,4426,4426,7,36,36,45
+4/17/2023 7:00:29 AM,The Data Wranglers,Electronic,DJ Tent,9165,1895,2,79,29,25
+5/20/2023 9:49:26 AM,Random Forest,Indie,DJ Tent,4435,432,5,43,15,29
+4/29/2023 9:58:42 PM,The Data Wranglers,Rock,DJ Tent,8381,4162,4,67,16,24
+3/4/2024 12:11:55 AM,The Data Wranglers,Jazz,Indie Arena,8748,7119,9,108,22,57
+8/15/2023 8:40:24 PM,The Algorithmics,Indie,VIP Lounge,9296,3860,1,76,36,37
+6/5/2023 5:57:08 PM,The Data Wranglers,Indie,Indie Arena,5594,1559,6,62,39,17
+4/29/2023 6:06:16 PM,Segmentation Fault,Indie,Indie Arena,8636,7623,3,72,16,17
+11/3/2023 11:06:33 PM,Neural Nets,Rock,DJ Tent,2811,1628,9,58,23,32
+10/25/2023 9:11:49 PM,Cluster Funk,Hip Hop,Indie Arena,7695,929,5,86,23,39
+5/11/2023 12:00:02 PM,Cluster Funk,Rock,Main Stage,6373,2212,6,34,27,57
+8/12/2023 4:11:33 PM,Random Forest,Hip Hop,Indie Arena,6384,6384,9,89,20,34
+11/25/2023 8:05:07 AM,Random Forest,Indie,Indie Arena,9408,9408,9,99,44,43
+8/10/2023 4:12:18 PM,The Data Wranglers,Indie,Indie Arena,8917,7764,8,31,29,36
+8/11/2023 7:05:56 AM,The Algorithmics,Jazz,Indie Arena,4094,1409,9,99,29,29
+11/3/2023 12:48:01 PM,The Algorithmics,Hip Hop,VIP Lounge,1778,1778,4,72,21,53
+5/6/2024 10:29:31 AM,Segmentation Fault,Indie,Indie Arena,8514,8198,6,33,25,24
+5/2/2023 2:17:16 PM,The Data Wranglers,Electronic,Main Stage,843,843,5,85,54,35
+5/9/2023 3:22:42 AM,Segmentation Fault,Jazz,Main Stage,562,562,5,88,52,43
+10/14/2023 7:15:18 AM,Recursive Rhythms,Rock,Indie Arena,1668,1668,4,118,54,46
+7/4/2023 4:51:41 AM,The Data Wranglers,Jazz,DJ Tent,1836,1836,2,38,16,24
+6/27/2023 6:03:37 PM,Byte Beat,Electronic,VIP Lounge,8003,130,6,32,53,27
+11/8/2023 12:24:21 AM,Byte Beat,Hip Hop,Indie Arena,7102,2782,9,119,24,37
+10/16/2023 7:27:14 AM,Epsilon Greedy,Rock,Indie Arena,8956,7883,1,77,58,37
+9/6/2023 8:46:15 AM,The Data Wranglers,Rock,Indie Arena,1456,1456,7,72,31,45
+5/26/2023 5:30:51 PM,Neural Nets,Hip Hop,DJ Tent,1114,1114,6,30,21,18
+12/1/2023 4:35:13 PM,Bit Rate,Jazz,DJ Tent,1154,1154,3,86,54,17
+5/26/2023 4:01:20 AM,Infinite Loop,Indie,DJ Tent,1864,717,1,82,53,35
+5/16/2023 11:01:06 AM,Epsilon Greedy,Jazz,VIP Lounge,6109,2546,4,45,18,16
+5/25/2023 3:15:51 AM,Random Forest,Electronic,Main Stage,4558,3549,9,80,49,18
+3/24/2024 5:30:08 PM,Hello World,Indie,VIP Lounge,9704,9686,2,104,50,15
+5/19/2023 5:52:19 PM,The Data Wranglers,Jazz,DJ Tent,767,767,3,119,45,29
+9/9/2023 6:52:14 AM,Parallel Processors,Hip Hop,Main Stage,3470,3470,2,84,39,47
+12/19/2023 9:14:15 PM,Syntax Error,Electronic,Main Stage,6076,6076,2,30,55,20
+8/19/2023 2:40:07 AM,Byte Beat,Electronic,DJ Tent,1494,1239,8,119,27,21
+5/19/2023 12:17:26 PM,Parallel Processors,Electronic,DJ Tent,8390,6654,3,57,32,33
+1/22/2024 10:17:43 AM,Hello World,Indie,VIP Lounge,4170,4170,7,82,35,58
+7/22/2023 6:54:49 PM,Segmentation Fault,Rock,DJ Tent,7082,7082,8,87,15,15
+3/2/2024 9:30:28 PM,Hello World,Indie,Main Stage,8713,8713,3,102,50,53
+11/4/2023 5:52:58 PM,The Algorithmics,Jazz,Indie Arena,5699,1075,2,89,22,33
+9/7/2023 8:27:53 AM,Neural Nets,Rock,DJ Tent,3750,3750,8,88,35,59
+11/7/2023 12:50:03 AM,The Data Wranglers,Jazz,DJ Tent,9424,121,3,51,57,40
+4/9/2024 4:14:29 PM,Cluster Funk,Rock,VIP Lounge,9994,5596,7,37,35,58
+9/15/2023 7:45:28 PM,Hello World,Indie,VIP Lounge,3720,2735,1,78,41,26
+1/25/2024 6:28:26 PM,Bit Rate,Electronic,DJ Tent,3290,3290,6,71,33,36
+3/23/2024 5:21:38 PM,The Algorithmics,Hip Hop,Main Stage,8889,7422,9,56,37,27
+9/13/2023 6:41:53 PM,Recursive Rhythms,Electronic,Main Stage,491,491,3,68,57,42
+12/5/2023 2:56:04 PM,Cluster Funk,Indie,Indie Arena,1175,1175,7,112,49,28
+6/30/2023 11:05:56 PM,Segmentation Fault,Rock,DJ Tent,2750,2750,6,54,54,36
+8/24/2023 3:49:29 PM,Epsilon Greedy,Electronic,VIP Lounge,2484,2484,8,67,56,44
+3/4/2024 4:45:35 AM,Parallel Processors,Indie,Main Stage,909,909,3,114,19,58
+1/16/2024 2:56:59 AM,The Algorithmics,Jazz,Indie Arena,8147,4152,3,53,55,34
+1/6/2024 12:27:38 AM,Cluster Funk,Hip Hop,DJ Tent,5601,954,4,53,22,58
+8/31/2023 12:31:45 AM,The Algorithmics,Electronic,Main Stage,6995,3076,3,89,25,41
+11/7/2023 6:58:42 PM,Epsilon Greedy,Rock,DJ Tent,1259,1259,9,112,30,52
+10/5/2023 4:58:21 AM,Recursive Rhythms,Jazz,DJ Tent,7674,4761,4,79,53,56
+11/15/2023 8:57:13 PM,Byte Beat,Indie,Main Stage,1631,1631,6,95,38,55
+7/28/2023 12:37:45 AM,Infinite Loop,Hip Hop,Main Stage,5581,5581,8,43,35,48
+2/12/2024 8:32:10 AM,The Data Wranglers,Rock,Main Stage,7648,2670,8,82,37,53
+9/8/2023 1:08:18 PM,Hello World,Indie,DJ Tent,5076,2696,5,61,52,55
+8/5/2023 10:16:13 AM,Byte Beat,Indie,DJ Tent,5795,4915,5,77,22,58
+8/27/2023 10:44:49 AM,Byte Beat,Electronic,Indie Arena,8545,7395,6,68,21,51
+7/29/2023 9:06:00 AM,Syntax Error,Electronic,VIP Lounge,3648,2339,7,69,16,15
+1/5/2024 1:33:22 PM,Cache Miss,Rock,DJ Tent,6263,6263,7,71,44,29
+4/24/2024 11:15:20 PM,The Query Strings,Indie,VIP Lounge,6771,3922,4,106,27,46
+4/13/2024 12:26:38 AM,Recursive Rhythms,Electronic,Main Stage,5364,5364,6,105,37,22
+3/22/2024 6:07:50 PM,Recursive Rhythms,Hip Hop,DJ Tent,1331,1331,7,37,43,47
+7/3/2023 4:46:54 PM,Recursive Rhythms,Hip Hop,Indie Arena,2523,1490,5,108,52,32
+3/6/2024 3:20:53 AM,Bit Rate,Indie,Indie Arena,8171,815,5,55,51,59
+10/22/2023 9:15:02 AM,Neural Nets,Electronic,VIP Lounge,4361,4142,2,41,34,43
+3/8/2024 7:48:14 AM,Epsilon Greedy,Rock,Main Stage,9865,9391,7,72,47,46
+11/28/2023 7:49:00 AM,The Algorithmics,Rock,VIP Lounge,3008,2716,6,80,43,47
+8/7/2023 9:29:16 AM,Infinite Loop,Rock,Main Stage,4812,4812,1,111,29,19
+8/21/2023 7:33:13 AM,Cache Miss,Hip Hop,Indie Arena,6855,6018,4,92,37,32
+9/24/2023 10:43:39 PM,The Query Strings,Electronic,VIP Lounge,9917,7691,3,78,56,24
+3/6/2024 1:28:32 AM,Infinite Loop,Electronic,Indie Arena,3983,2231,3,56,17,50
+8/14/2023 11:23:39 PM,Neural Nets,Hip Hop,Indie Arena,3615,3615,7,38,51,47
+8/30/2023 5:15:57 PM,Epsilon Greedy,Rock,Main Stage,3503,3503,4,68,43,37
+8/17/2023 7:07:12 AM,The Data Wranglers,Rock,VIP Lounge,4698,890,8,94,59,54
+1/29/2024 4:16:42 PM,Neural Nets,Indie,VIP Lounge,5108,5108,9,100,22,19
+10/26/2023 7:06:36 AM,Hello World,Jazz,Indie Arena,6322,4168,3,119,36,48
+3/14/2024 3:38:22 PM,The Algorithmics,Electronic,Indie Arena,4109,615,5,100,43,38
+4/15/2023 10:59:27 AM,Byte Beat,Electronic,Main Stage,2835,2835,4,36,16,31
+5/10/2023 11:04:03 PM,Syntax Error,Electronic,DJ Tent,4591,4591,6,101,55,45
+9/5/2023 2:47:04 AM,The Algorithmics,Jazz,DJ Tent,8693,8693,4,109,59,21
+11/21/2023 2:23:52 AM,The Query Strings,Indie,Indie Arena,1074,1074,8,96,15,31
+6/20/2023 11:21:14 PM,The Query Strings,Jazz,DJ Tent,323,323,3,39,58,42
+7/28/2023 4:01:34 AM,Infinite Loop,Rock,DJ Tent,4713,4713,5,100,34,52
+10/15/2023 11:50:48 AM,Syntax Error,Rock,DJ Tent,6877,4361,1,114,35,36
+3/30/2024 6:15:06 PM,Recursive Rhythms,Electronic,DJ Tent,8527,7786,6,82,51,29
+7/29/2023 9:50:11 PM,The Query Strings,Hip Hop,Indie Arena,4311,4311,5,116,22,51
+10/20/2023 2:53:32 AM,The Algorithmics,Electronic,DJ Tent,325,325,8,86,41,29
+3/18/2024 8:41:22 AM,Syntax Error,Hip Hop,DJ Tent,8283,8283,9,115,49,39
+10/17/2023 1:10:50 AM,Epsilon Greedy,Jazz,Main Stage,4377,4377,8,56,20,35
+8/1/2023 1:09:30 PM,Hello World,Rock,Indie Arena,1441,606,8,83,59,52
+4/29/2024 5:10:50 AM,Neural Nets,Hip Hop,VIP Lounge,4136,3069,3,33,58,16
+1/21/2024 11:39:05 AM,Byte Beat,Jazz,VIP Lounge,8501,2630,4,117,33,41
+6/16/2023 7:44:07 PM,Hello World,Rock,Main Stage,3827,3827,4,52,32,46
+6/19/2023 9:05:22 AM,Cache Miss,Hip Hop,Main Stage,4028,4028,5,77,15,35
+5/7/2024 1:40:48 AM,The Data Wranglers,Electronic,Indie Arena,2903,2903,9,112,39,18
+8/3/2023 12:03:13 PM,Syntax Error,Electronic,VIP Lounge,9401,9401,9,71,41,58
+10/6/2023 3:51:20 AM,Cluster Funk,Electronic,DJ Tent,6658,4069,1,32,21,33
+4/22/2023 9:10:14 AM,Hello World,Jazz,Main Stage,493,493,8,32,58,16
+10/8/2023 10:09:11 AM,Infinite Loop,Electronic,VIP Lounge,6939,6939,1,57,56,40
+2/10/2024 3:29:03 PM,Cache Miss,Indie,Indie Arena,9135,721,2,92,43,48
+8/16/2023 1:48:37 AM,Byte Beat,Rock,DJ Tent,9816,827,7,110,45,28
+3/31/2024 9:45:58 PM,Infinite Loop,Jazz,Indie Arena,8895,4977,8,60,58,29
+2/1/2024 8:49:41 AM,Infinite Loop,Electronic,Main Stage,681,681,1,39,57,34
+1/21/2024 12:11:13 PM,Parallel Processors,Rock,VIP Lounge,232,232,3,78,50,48
+9/24/2023 6:36:58 PM,Cluster Funk,Hip Hop,VIP Lounge,2938,2938,7,115,33,50
+11/20/2023 1:58:34 AM,Syntax Error,Electronic,VIP Lounge,3485,1124,9,50,20,33
+2/13/2024 1:57:07 AM,Cluster Funk,Rock,VIP Lounge,3870,3870,8,82,39,23
+2/29/2024 4:00:57 AM,Hello World,Indie,DJ Tent,2368,2368,8,116,45,21
+12/6/2023 12:25:31 AM,Infinite Loop,Hip Hop,DJ Tent,1075,1075,9,105,23,44
+2/5/2024 10:25:34 PM,The Query Strings,Indie,Indie Arena,7705,2036,3,118,34,27
+9/25/2023 2:02:54 AM,Random Forest,Rock,DJ Tent,7313,7313,8,83,24,41
+9/12/2023 10:29:37 AM,Byte Beat,Indie,Main Stage,9835,6377,1,86,51,58
+12/21/2023 12:23:00 AM,The Query Strings,Rock,Main Stage,2935,1096,8,49,41,49
+10/25/2023 1:50:14 AM,Recursive Rhythms,Rock,VIP Lounge,2838,2226,7,78,27,27
+7/18/2023 9:27:42 PM,Byte Beat,Indie,Main Stage,9649,2388,8,36,55,29
+6/17/2023 6:14:29 AM,Syntax Error,Rock,Indie Arena,4234,550,1,58,16,23
+3/30/2024 10:00:06 PM,Random Forest,Electronic,DJ Tent,9608,2283,6,77,35,59
+12/2/2023 2:48:34 AM,Bit Rate,Rock,DJ Tent,6933,4658,7,42,47,37
+5/13/2023 1:07:13 AM,The Data Wranglers,Jazz,DJ Tent,8453,7284,5,32,38,50
+2/24/2024 2:31:22 PM,Random Forest,Rock,Main Stage,2009,2009,5,31,58,54
+5/7/2024 8:42:41 AM,Syntax Error,Jazz,DJ Tent,9419,6660,7,45,56,17
+11/23/2023 6:53:54 PM,Segmentation Fault,Rock,VIP Lounge,9950,650,3,35,48,48
+4/13/2024 8:12:39 PM,Recursive Rhythms,Rock,VIP Lounge,2063,2063,6,74,23,33
+9/7/2023 8:06:29 PM,Parallel Processors,Indie,VIP Lounge,5253,5253,7,100,16,42
+6/14/2023 6:16:20 AM,Hello World,Electronic,Main Stage,1066,1066,1,34,44,37
+12/2/2023 8:20:03 AM,Syntax Error,Electronic,DJ Tent,989,989,2,85,36,54
+3/6/2024 7:09:47 PM,Hello World,Hip Hop,Main Stage,3161,3161,4,100,25,59
+12/30/2023 11:33:45 AM,Cache Miss,Indie,DJ Tent,6561,1804,8,61,57,21
+8/6/2023 4:19:53 AM,The Query Strings,Indie,Indie Arena,6266,2514,6,78,31,55
+5/1/2023 6:12:14 AM,Parallel Processors,Electronic,Indie Arena,7067,4532,1,42,50,26
+8/2/2023 12:18:22 AM,Cache Miss,Indie,Main Stage,9958,9736,5,59,27,28
+10/4/2023 9:56:27 AM,Segmentation Fault,Electronic,VIP Lounge,8201,8201,7,54,21,29
+8/26/2023 3:55:29 AM,Random Forest,Indie,Main Stage,7479,7450,6,114,30,17
+10/6/2023 11:36:55 AM,Hello World,Rock,VIP Lounge,9733,6856,9,89,47,29
+4/4/2024 3:42:00 PM,The Algorithmics,Electronic,DJ Tent,7380,7380,8,88,59,38
+8/2/2023 7:35:40 PM,Epsilon Greedy,Electronic,VIP Lounge,1167,1167,4,114,15,22
+9/22/2023 1:56:59 PM,Random Forest,Jazz,VIP Lounge,4323,4323,5,57,25,19
+2/22/2024 12:12:47 PM,Recursive Rhythms,Indie,DJ Tent,9118,5291,7,87,20,18
+6/19/2023 12:22:57 AM,Parallel Processors,Indie,Indie Arena,4707,4707,8,49,34,28
+1/31/2024 8:04:09 AM,Random Forest,Electronic,DJ Tent,4085,4085,5,63,49,30
+12/26/2023 3:14:07 PM,Segmentation Fault,Rock,Main Stage,3279,3279,9,34,58,34
+6/10/2023 12:10:31 PM,The Data Wranglers,Rock,Main Stage,4638,2638,4,111,51,38
+5/6/2023 12:30:27 AM,Byte Beat,Rock,Main Stage,2462,1832,4,89,55,20
+5/28/2023 3:23:04 AM,Infinite Loop,Indie,Main Stage,2324,2324,8,72,40,45
+4/11/2024 6:21:37 PM,Infinite Loop,Jazz,Main Stage,6471,6471,1,86,26,20
+10/27/2023 3:57:46 PM,Segmentation Fault,Electronic,Indie Arena,1826,1826,8,86,44,49
+1/6/2024 4:04:24 PM,Recursive Rhythms,Hip Hop,Indie Arena,5891,3268,5,104,42,29
+11/30/2023 4:41:08 AM,Byte Beat,Jazz,VIP Lounge,8173,3807,1,83,41,43
+10/21/2023 8:23:24 PM,Recursive Rhythms,Hip Hop,Main Stage,8558,4066,4,110,56,17
+10/31/2023 9:50:30 AM,Hello World,Jazz,DJ Tent,7113,2887,2,74,33,25
+9/10/2023 3:23:40 PM,Segmentation Fault,Rock,Main Stage,937,937,4,115,19,17
+2/22/2024 10:54:04 PM,Byte Beat,Indie,Indie Arena,4684,4684,8,66,19,42
+1/24/2024 6:37:37 AM,Syntax Error,Hip Hop,Main Stage,786,786,5,113,55,24
+9/29/2023 5:31:28 AM,Cache Miss,Jazz,Indie Arena,456,456,1,77,41,47
+6/4/2023 5:02:59 PM,Segmentation Fault,Indie,VIP Lounge,9163,4478,7,83,42,30
+10/20/2023 12:14:14 PM,Syntax Error,Hip Hop,VIP Lounge,4747,4747,1,77,40,24
+7/13/2023 7:40:14 AM,Hello World,Electronic,VIP Lounge,4518,4200,9,35,41,47
+7/25/2023 2:00:20 PM,Segmentation Fault,Jazz,Indie Arena,6742,6742,3,63,56,50
+2/9/2024 6:24:44 AM,Hello World,Electronic,Main Stage,3491,1496,3,92,35,17
+1/14/2024 9:16:54 AM,Recursive Rhythms,Rock,Main Stage,4457,4457,6,107,15,19
+5/31/2023 11:14:44 AM,Segmentation Fault,Electronic,DJ Tent,4979,4979,6,77,42,26
+6/4/2023 9:27:54 AM,Byte Beat,Electronic,Indie Arena,5419,5419,6,52,29,58
+12/3/2023 6:32:59 PM,Recursive Rhythms,Jazz,DJ Tent,2839,2839,1,113,31,27
+4/9/2024 10:47:07 AM,The Data Wranglers,Rock,VIP Lounge,9610,5130,5,42,40,38
+12/8/2023 9:03:59 AM,Neural Nets,Electronic,Main Stage,9827,914,6,76,34,58
+9/13/2023 1:02:02 PM,Syntax Error,Indie,Indie Arena,4884,4884,8,73,39,46
+3/3/2024 4:59:00 AM,Byte Beat,Hip Hop,DJ Tent,977,977,1,61,27,30
+5/6/2024 11:14:20 PM,The Query Strings,Electronic,DJ Tent,2970,2970,5,55,47,46
+11/5/2023 4:44:15 AM,Cluster Funk,Rock,DJ Tent,392,392,3,82,39,59
+4/7/2024 4:13:57 AM,Syntax Error,Electronic,Main Stage,9943,1552,2,43,22,51
+1/20/2024 11:42:52 PM,The Data Wranglers,Hip Hop,Main Stage,8828,4734,8,81,19,50
+8/25/2023 3:54:24 AM,Cache Miss,Rock,Main Stage,2786,1460,7,65,20,35
+5/16/2023 9:08:32 PM,Random Forest,Jazz,Indie Arena,333,333,7,37,37,26
+4/15/2024 7:12:52 PM,Infinite Loop,Rock,Main Stage,2474,2474,5,69,44,35
+5/11/2023 10:47:29 PM,Byte Beat,Jazz,Indie Arena,2372,2372,9,115,28,35
+9/30/2023 4:43:58 AM,The Algorithmics,Rock,DJ Tent,1066,1066,5,51,37,57
+9/22/2023 2:30:40 PM,Segmentation Fault,Hip Hop,DJ Tent,989,989,2,45,25,20
+11/24/2023 5:09:45 PM,Bit Rate,Hip Hop,VIP Lounge,3963,648,3,89,45,23
+9/24/2023 9:28:55 PM,Byte Beat,Rock,Main Stage,6254,6254,4,89,20,15
+2/10/2024 10:09:09 AM,Parallel Processors,Electronic,DJ Tent,3500,3091,5,39,25,26
+5/9/2024 9:37:36 AM,The Algorithmics,Hip Hop,Main Stage,8326,8210,3,54,27,28
+8/16/2023 4:30:27 AM,Syntax Error,Jazz,Indie Arena,4642,4642,7,60,26,20
+3/12/2024 4:29:44 AM,Epsilon Greedy,Jazz,DJ Tent,3623,3623,5,50,16,15
+1/22/2024 6:21:17 PM,Syntax Error,Indie,Main Stage,1863,116,5,110,49,36
+6/30/2023 4:14:48 AM,The Data Wranglers,Jazz,DJ Tent,3391,3391,6,62,50,48
+7/10/2023 5:36:33 PM,Parallel Processors,Indie,DJ Tent,2588,2588,7,60,31,25
+8/5/2023 1:01:53 PM,Neural Nets,Rock,Main Stage,1658,1658,8,119,42,17
+9/25/2023 12:59:46 AM,Cache Miss,Rock,DJ Tent,4790,4790,9,50,42,56
+3/27/2024 5:18:26 PM,Epsilon Greedy,Rock,DJ Tent,6221,6221,4,65,36,20
+12/31/2023 2:50:02 AM,Hello World,Electronic,DJ Tent,2376,2376,5,94,52,20
+9/13/2023 9:11:03 AM,Bit Rate,Electronic,DJ Tent,4539,4539,5,33,21,34
+3/24/2024 12:37:11 AM,Bit Rate,Indie,Indie Arena,1203,1203,8,97,29,35
+2/8/2024 8:02:31 PM,Epsilon Greedy,Jazz,DJ Tent,7620,6502,9,119,46,16
+11/17/2023 5:46:49 PM,Byte Beat,Jazz,VIP Lounge,9711,824,7,33,25,40
+7/21/2023 3:38:31 AM,Cache Miss,Rock,DJ Tent,5509,5509,5,38,38,45
+11/12/2023 3:49:47 PM,Bit Rate,Hip Hop,Main Stage,9770,7854,3,59,17,40
+4/29/2023 4:01:52 PM,Byte Beat,Electronic,VIP Lounge,7969,7969,1,74,44,46
+4/21/2024 9:13:18 PM,Recursive Rhythms,Electronic,Indie Arena,3056,3056,9,33,20,24
+1/28/2024 11:02:38 PM,Hello World,Rock,VIP Lounge,7810,979,5,98,16,37
+3/6/2024 4:42:30 PM,Syntax Error,Electronic,VIP Lounge,6117,3062,9,52,28,20
+6/26/2023 11:50:10 PM,Random Forest,Rock,VIP Lounge,9674,5074,4,45,55,37
+4/26/2024 9:00:12 AM,Cache Miss,Indie,Main Stage,3484,3484,5,51,32,42
+12/4/2023 7:38:46 AM,Random Forest,Jazz,Main Stage,9861,8023,4,101,58,44
+7/16/2023 9:17:32 AM,The Data Wranglers,Hip Hop,Main Stage,128,128,2,77,45,28
+7/23/2023 6:09:40 AM,Parallel Processors,Jazz,Indie Arena,8997,4779,1,91,27,51
+5/22/2023 2:18:22 PM,The Data Wranglers,Jazz,Main Stage,9312,8011,8,89,40,46
+3/13/2024 1:33:12 AM,Random Forest,Indie,Main Stage,9738,2869,4,109,58,48
+5/22/2023 3:39:07 PM,Bit Rate,Electronic,VIP Lounge,7856,6705,5,34,26,55
+3/11/2024 10:08:38 AM,The Algorithmics,Hip Hop,Main Stage,7048,1234,6,109,32,58
+8/13/2023 11:37:18 PM,Recursive Rhythms,Electronic,DJ Tent,5855,5855,8,36,23,36
+4/20/2024 1:38:05 AM,Parallel Processors,Jazz,Main Stage,3702,3702,8,80,35,45
+4/25/2023 5:34:16 PM,The Data Wranglers,Rock,Indie Arena,5162,577,7,94,54,21
+1/27/2024 10:49:18 PM,Cache Miss,Jazz,Indie Arena,8171,966,4,38,57,55
+12/31/2023 11:10:11 AM,Segmentation Fault,Electronic,DJ Tent,7344,7344,6,111,38,35
+5/7/2024 7:18:14 AM,Recursive Rhythms,Jazz,Indie Arena,6472,3624,4,74,48,30
+4/17/2024 6:59:38 AM,The Query Strings,Rock,Indie Arena,7205,3369,7,76,22,34
+3/4/2024 6:18:55 AM,Parallel Processors,Indie,VIP Lounge,3681,1456,1,96,58,57
+7/30/2023 12:04:16 AM,The Data Wranglers,Electronic,DJ Tent,2862,1291,5,53,47,58
+10/26/2023 3:20:04 PM,The Data Wranglers,Jazz,VIP Lounge,672,672,4,39,37,33
+6/12/2023 10:10:35 PM,Byte Beat,Electronic,VIP Lounge,7805,7299,7,102,27,46
+4/19/2024 12:18:49 PM,Random Forest,Indie,Main Stage,714,714,9,106,28,29
+7/7/2023 6:03:27 AM,Cluster Funk,Jazz,DJ Tent,4150,848,5,77,28,19
+5/1/2023 5:15:59 AM,Neural Nets,Jazz,Main Stage,425,425,4,64,30,25
+12/8/2023 8:31:14 AM,Recursive Rhythms,Electronic,Main Stage,3840,3840,9,83,52,29
+3/12/2024 11:29:33 AM,Parallel Processors,Electronic,VIP Lounge,458,458,5,116,53,43
+5/2/2023 6:15:30 PM,Infinite Loop,Rock,Indie Arena,3877,2938,9,110,40,59
+12/22/2023 2:50:53 AM,Recursive Rhythms,Indie,DJ Tent,6006,2740,8,100,40,18
+11/19/2023 8:38:20 PM,Infinite Loop,Rock,Indie Arena,1821,1821,4,45,15,50
+9/13/2023 1:30:42 PM,Epsilon Greedy,Jazz,VIP Lounge,1449,1449,7,82,46,37
+12/26/2023 9:58:28 AM,The Data Wranglers,Electronic,VIP Lounge,3796,3796,5,69,29,29
+9/12/2023 8:09:58 AM,Epsilon Greedy,Jazz,VIP Lounge,3996,3996,4,49,35,58
+10/10/2023 4:05:45 PM,Cache Miss,Jazz,VIP Lounge,4360,740,5,117,32,17
+1/31/2024 5:02:17 AM,Cluster Funk,Hip Hop,VIP Lounge,9888,8769,5,98,44,46
+9/19/2023 5:22:21 PM,Bit Rate,Hip Hop,VIP Lounge,9919,1545,9,74,27,24
+2/3/2024 5:02:28 PM,Neural Nets,Jazz,Indie Arena,7041,942,9,35,38,54
+11/18/2023 10:54:20 PM,The Algorithmics,Electronic,Main Stage,3908,3908,6,98,44,52
+9/20/2023 10:12:16 PM,Bit Rate,Jazz,Indie Arena,5346,5346,4,78,16,36
+1/18/2024 3:53:35 PM,Random Forest,Hip Hop,DJ Tent,8484,5923,2,68,33,28
+8/30/2023 11:11:00 AM,Syntax Error,Electronic,Indie Arena,3945,3945,3,31,58,31
+2/2/2024 10:46:48 AM,Recursive Rhythms,Jazz,VIP Lounge,2677,947,2,68,39,35
+3/11/2024 10:21:57 PM,The Query Strings,Indie,Indie Arena,191,191,5,50,28,29
+3/6/2024 8:53:27 AM,Parallel Processors,Indie,Main Stage,4334,3745,6,69,20,29
+7/6/2023 2:03:44 PM,Neural Nets,Jazz,DJ Tent,8772,2736,5,111,26,15
+7/24/2023 7:25:49 PM,Bit Rate,Electronic,Indie Arena,6692,6692,2,83,34,38
+7/27/2023 10:40:54 AM,Parallel Processors,Jazz,Main Stage,8228,5828,5,41,37,26
+3/1/2024 6:35:49 PM,Neural Nets,Jazz,Indie Arena,1175,1175,9,110,44,24
+6/3/2023 8:23:30 PM,Bit Rate,Hip Hop,DJ Tent,2613,2613,4,66,44,56
+1/14/2024 6:52:51 PM,Recursive Rhythms,Indie,Indie Arena,8268,4562,2,67,52,56
+7/18/2023 12:24:03 AM,The Algorithmics,Hip Hop,VIP Lounge,6961,465,3,44,44,45
+1/19/2024 6:35:26 AM,Syntax Error,Hip Hop,Indie Arena,9090,9090,3,36,55,25
+1/15/2024 7:33:41 PM,The Query Strings,Jazz,Main Stage,704,704,9,107,44,30
+10/27/2023 6:02:09 PM,Segmentation Fault,Hip Hop,Indie Arena,3079,3079,4,79,50,23
+4/26/2024 12:46:54 PM,Random Forest,Indie,Main Stage,7240,2565,1,94,48,28
+10/31/2023 5:11:00 AM,The Algorithmics,Hip Hop,DJ Tent,7165,7165,1,96,30,33
+7/3/2023 10:36:48 PM,Syntax Error,Indie,Indie Arena,5016,5016,7,73,38,45
+8/20/2023 1:46:53 PM,Byte Beat,Hip Hop,DJ Tent,6900,5690,7,60,28,23
+4/22/2023 6:03:49 PM,Epsilon Greedy,Indie,DJ Tent,697,697,2,72,40,50
+3/4/2024 6:06:15 PM,Parallel Processors,Hip Hop,Indie Arena,9824,1042,9,106,22,53
+4/18/2024 5:27:21 PM,Infinite Loop,Hip Hop,Main Stage,7420,7420,9,77,28,40
+12/24/2023 8:48:49 AM,The Data Wranglers,Electronic,DJ Tent,8805,4420,5,111,45,22
+2/7/2024 11:38:06 AM,Neural Nets,Indie,DJ Tent,5722,1823,3,110,16,38
+11/24/2023 9:08:23 AM,Cache Miss,Indie,Indie Arena,1977,1977,3,110,18,22
+5/19/2023 4:59:21 PM,Recursive Rhythms,Indie,Indie Arena,1799,1799,3,90,15,33
+8/26/2023 9:19:55 PM,Infinite Loop,Rock,Indie Arena,9321,6683,6,104,34,44
+7/20/2023 8:33:27 PM,Bit Rate,Hip Hop,Indie Arena,5880,1806,4,113,28,36
+10/20/2023 8:37:29 PM,The Algorithmics,Indie,Indie Arena,816,816,8,39,54,23
+4/14/2024 6:22:16 AM,Infinite Loop,Rock,VIP Lounge,4186,2626,5,58,39,58
+2/24/2024 6:20:44 PM,The Query Strings,Electronic,Indie Arena,765,765,1,77,39,18
+3/15/2024 8:50:30 AM,Epsilon Greedy,Indie,Main Stage,7946,4234,9,110,17,51
+1/22/2024 3:01:55 AM,The Algorithmics,Indie,DJ Tent,6711,6711,1,91,19,22
+5/7/2023 3:20:20 AM,Cluster Funk,Rock,Main Stage,1179,1179,6,42,52,15
+12/31/2023 6:14:35 PM,The Query Strings,Hip Hop,Main Stage,8519,6019,1,73,40,42
+5/13/2023 2:48:52 PM,Syntax Error,Electronic,VIP Lounge,8440,4585,3,76,54,20
+2/26/2024 11:47:13 AM,Cluster Funk,Indie,Indie Arena,1169,1169,5,93,52,50
+2/4/2024 8:27:31 PM,Bit Rate,Hip Hop,DJ Tent,5363,5363,7,82,52,25
+11/27/2023 3:02:48 AM,Random Forest,Electronic,Main Stage,8051,8051,8,119,18,19
+7/3/2023 2:47:50 PM,Bit Rate,Jazz,Indie Arena,1463,784,9,106,21,38
+8/18/2023 7:23:06 AM,Neural Nets,Jazz,Indie Arena,4608,682,6,105,44,32
+8/17/2023 9:20:53 PM,Recursive Rhythms,Electronic,VIP Lounge,1855,1855,9,73,44,34
+10/21/2023 2:41:09 PM,Cache Miss,Rock,VIP Lounge,619,619,8,57,33,42
+5/23/2023 10:14:31 AM,Parallel Processors,Electronic,VIP Lounge,5563,2951,9,31,53,27
+5/21/2023 4:13:44 PM,Infinite Loop,Electronic,DJ Tent,7333,1713,4,86,49,19
+7/12/2023 9:46:41 PM,The Data Wranglers,Rock,Main Stage,1202,1202,9,86,54,44
+5/25/2023 7:22:16 AM,Cluster Funk,Rock,VIP Lounge,697,697,7,63,47,15
+3/23/2024 9:21:49 PM,Epsilon Greedy,Hip Hop,VIP Lounge,3373,1104,5,116,47,36
+11/3/2023 10:00:05 PM,Segmentation Fault,Hip Hop,VIP Lounge,5881,5881,5,87,28,32
+4/22/2023 4:10:47 AM,Parallel Processors,Rock,Main Stage,6356,3132,1,81,52,19
+10/5/2023 1:26:39 AM,Random Forest,Jazz,Main Stage,7358,7358,2,58,24,45
+4/26/2024 12:45:04 AM,The Algorithmics,Jazz,VIP Lounge,8880,8880,3,64,42,20
+2/4/2024 4:30:30 PM,Segmentation Fault,Electronic,VIP Lounge,6654,4311,8,104,28,41
+2/9/2024 8:54:32 AM,The Algorithmics,Indie,Indie Arena,9699,2439,6,77,50,39
+11/22/2023 9:20:19 PM,Random Forest,Electronic,VIP Lounge,8102,3603,5,62,52,43
+8/1/2023 3:43:00 PM,Byte Beat,Electronic,DJ Tent,4946,4946,1,104,30,42
+9/27/2023 2:45:54 AM,Parallel Processors,Indie,DJ Tent,9921,9449,9,102,35,30
+3/10/2024 1:27:06 AM,Epsilon Greedy,Rock,VIP Lounge,9286,594,3,107,42,26
+12/30/2023 6:33:28 AM,Syntax Error,Jazz,Main Stage,4898,3713,3,38,47,34
+7/6/2023 5:21:26 PM,Infinite Loop,Electronic,Indie Arena,6705,2289,2,77,20,32
+5/31/2023 8:30:56 PM,Segmentation Fault,Indie,Main Stage,3086,3086,4,96,55,48
+9/26/2023 8:21:40 PM,Cache Miss,Hip Hop,VIP Lounge,500,500,2,112,29,37
+1/5/2024 10:34:07 PM,Neural Nets,Electronic,DJ Tent,2955,2955,9,65,58,59
+8/13/2023 1:10:33 PM,The Query Strings,Jazz,Indie Arena,3512,3512,7,100,17,41
+7/6/2023 7:13:38 PM,The Data Wranglers,Rock,Main Stage,156,156,8,73,57,31
+8/13/2023 7:27:43 AM,Syntax Error,Electronic,Main Stage,8122,3180,3,111,49,35
+9/21/2023 9:41:53 PM,Neural Nets,Electronic,VIP Lounge,1975,146,6,89,28,54
+6/21/2023 5:03:34 PM,Recursive Rhythms,Indie,Indie Arena,4643,3908,6,92,16,45
+9/24/2023 3:54:53 PM,Infinite Loop,Hip Hop,DJ Tent,4398,2758,1,34,43,17
+5/20/2023 7:12:05 PM,Neural Nets,Hip Hop,VIP Lounge,3868,3868,6,116,18,31
+7/28/2023 6:42:00 PM,The Algorithmics,Rock,Indie Arena,5852,5852,3,115,40,40
+9/22/2023 8:53:02 AM,Random Forest,Jazz,Main Stage,4933,506,3,119,26,37
+9/7/2023 11:04:05 AM,Cache Miss,Rock,VIP Lounge,1453,1453,3,105,16,20
+11/17/2023 8:52:10 PM,Infinite Loop,Electronic,Main Stage,5087,4418,8,69,31,42
+9/11/2023 1:11:00 PM,Parallel Processors,Electronic,Main Stage,6697,4138,5,48,49,22
+4/6/2024 5:23:08 AM,Random Forest,Hip Hop,VIP Lounge,4411,4411,4,76,24,59
+9/7/2023 1:11:14 AM,Hello World,Jazz,VIP Lounge,3034,3034,9,94,36,22
+7/30/2023 6:11:30 PM,Recursive Rhythms,Indie,VIP Lounge,122,122,9,96,55,33
+1/7/2024 9:13:11 PM,Cluster Funk,Jazz,VIP Lounge,1309,1196,1,47,57,52
+1/2/2024 4:05:50 AM,The Data Wranglers,Electronic,VIP Lounge,9040,5202,2,79,35,43
+12/14/2023 3:02:41 AM,Bit Rate,Indie,Main Stage,904,904,8,59,29,37
+8/31/2023 7:11:11 PM,Cluster Funk,Jazz,DJ Tent,8425,8168,5,95,49,46
+4/17/2023 5:39:42 AM,The Query Strings,Jazz,DJ Tent,4516,4516,7,34,35,24
+4/15/2024 9:58:34 PM,The Algorithmics,Indie,VIP Lounge,8725,7809,1,71,35,41
+8/26/2023 10:13:05 AM,Hello World,Electronic,Main Stage,5241,5241,5,113,35,15
+5/19/2023 2:26:58 PM,Epsilon Greedy,Jazz,DJ Tent,5068,4834,3,34,58,53
+5/9/2024 11:24:16 AM,The Algorithmics,Indie,DJ Tent,3771,3771,2,79,46,43
+8/17/2023 3:00:55 AM,The Query Strings,Electronic,DJ Tent,7392,1511,2,114,19,59
+11/27/2023 3:32:20 PM,The Query Strings,Indie,Main Stage,7101,1209,9,87,53,17
+5/24/2023 12:57:15 PM,Byte Beat,Indie,VIP Lounge,2198,436,4,108,23,51
+11/26/2023 6:23:56 AM,Parallel Processors,Jazz,VIP Lounge,8544,7242,4,113,32,45
+5/8/2024 2:30:56 PM,The Data Wranglers,Electronic,VIP Lounge,5161,5161,7,37,35,25
+12/28/2023 4:46:04 PM,Random Forest,Jazz,Indie Arena,9421,4825,2,60,22,36
+12/12/2023 8:55:45 PM,Cache Miss,Rock,Indie Arena,3364,3364,3,41,58,32
+3/2/2024 9:02:23 PM,Parallel Processors,Rock,Indie Arena,5535,739,3,50,48,49
+7/31/2023 4:00:44 PM,Recursive Rhythms,Electronic,Main Stage,8593,7078,6,91,24,20
+4/17/2024 9:57:43 PM,Cluster Funk,Indie,DJ Tent,6791,6791,3,119,55,17
+10/2/2023 4:26:20 PM,The Query Strings,Jazz,DJ Tent,2863,2863,5,62,38,19
+7/31/2023 11:06:36 PM,Cluster Funk,Jazz,Main Stage,4105,4105,4,55,54,23
+6/9/2023 2:43:58 PM,Syntax Error,Electronic,Main Stage,3341,3341,3,119,38,42
+6/5/2023 3:09:27 AM,Cluster Funk,Electronic,VIP Lounge,3157,1002,8,69,46,33
+5/7/2024 6:54:33 AM,Epsilon Greedy,Rock,VIP Lounge,650,650,3,94,47,42
+5/3/2024 3:08:50 AM,Infinite Loop,Hip Hop,Indie Arena,5674,5674,6,88,52,41
+4/28/2024 5:12:19 PM,Syntax Error,Electronic,Indie Arena,5511,5511,7,44,58,27
+4/13/2023 7:46:20 PM,Syntax Error,Hip Hop,Main Stage,1687,1687,7,30,48,52
+4/23/2024 10:01:53 AM,The Data Wranglers,Electronic,Indie Arena,6020,1904,2,40,25,57
+7/11/2023 3:05:53 AM,Parallel Processors,Indie,DJ Tent,5360,3281,3,84,45,35
+2/19/2024 11:05:27 AM,The Data Wranglers,Indie,Main Stage,4509,2647,4,31,32,41
+3/23/2024 1:26:43 PM,Segmentation Fault,Rock,Main Stage,5883,5883,7,94,37,20
+12/29/2023 6:30:14 AM,Neural Nets,Rock,DJ Tent,812,812,2,73,36,52
+5/15/2023 7:42:42 AM,The Data Wranglers,Hip Hop,VIP Lounge,5506,4033,3,45,57,25
+9/26/2023 9:15:01 PM,Cluster Funk,Electronic,VIP Lounge,8090,7013,7,51,32,55
+5/16/2023 5:19:49 PM,Random Forest,Jazz,DJ Tent,7520,6734,7,47,54,31
+11/18/2023 11:31:20 AM,Cluster Funk,Rock,DJ Tent,6943,706,3,76,55,53
+1/7/2024 6:05:14 AM,Random Forest,Jazz,Indie Arena,2533,2533,1,110,53,21
+6/26/2023 3:20:19 PM,Infinite Loop,Jazz,Main Stage,3401,3401,3,59,34,44
+5/31/2023 10:09:36 PM,Parallel Processors,Electronic,Indie Arena,370,370,5,39,27,35
+8/15/2023 6:48:34 AM,Infinite Loop,Hip Hop,DJ Tent,1179,1179,7,87,59,15
+4/24/2023 5:24:27 PM,Parallel Processors,Electronic,Indie Arena,5422,5422,4,91,15,39
+8/22/2023 12:36:08 AM,Parallel Processors,Rock,DJ Tent,8895,3335,1,114,18,46
+6/3/2023 12:11:19 PM,Syntax Error,Jazz,Indie Arena,5357,5357,6,109,38,22
+5/15/2023 11:21:26 PM,Segmentation Fault,Electronic,Indie Arena,8082,5609,2,35,50,19
+5/29/2023 1:13:40 AM,Random Forest,Electronic,VIP Lounge,9877,3613,3,96,50,44
+6/20/2023 12:23:25 PM,Syntax Error,Electronic,DJ Tent,6314,4634,4,70,59,22
+3/13/2024 1:04:04 PM,The Data Wranglers,Rock,Indie Arena,5106,4867,6,72,16,33
+7/25/2023 5:58:39 PM,The Algorithmics,Hip Hop,Main Stage,4085,4085,6,114,42,58
+1/13/2024 1:27:18 PM,Epsilon Greedy,Electronic,Indie Arena,9687,6232,7,106,40,44
+10/3/2023 9:31:38 AM,Parallel Processors,Rock,Indie Arena,8891,8076,5,47,37,29
+1/16/2024 12:41:31 PM,Random Forest,Jazz,Main Stage,8805,3294,7,87,29,50
+4/16/2023 11:38:01 PM,Infinite Loop,Indie,DJ Tent,6091,1090,2,89,50,58
+2/6/2024 5:08:10 PM,Cluster Funk,Rock,VIP Lounge,6327,2323,1,117,41,41
+10/31/2023 3:04:38 PM,Cache Miss,Indie,VIP Lounge,9358,3679,8,56,20,27
+11/11/2023 3:29:54 PM,The Data Wranglers,Electronic,VIP Lounge,7933,2164,1,97,49,28
+12/23/2023 4:57:03 AM,Cache Miss,Electronic,Main Stage,2986,2986,2,51,53,51
+1/4/2024 8:26:12 AM,Hello World,Rock,Indie Arena,2753,1727,6,53,52,44
+3/21/2024 2:21:52 PM,Hello World,Indie,DJ Tent,9380,3144,1,69,49,53
+6/27/2023 2:42:53 PM,Recursive Rhythms,Electronic,Indie Arena,4964,4964,3,103,50,27
+4/12/2024 7:22:25 AM,Cluster Funk,Jazz,VIP Lounge,2614,2614,7,95,24,30
+12/15/2023 8:02:45 AM,Hello World,Hip Hop,Indie Arena,4069,2334,8,69,44,58
+6/16/2023 2:50:24 PM,Neural Nets,Hip Hop,Main Stage,3384,3384,4,35,55,21
+1/3/2024 1:33:51 PM,Infinite Loop,Electronic,Main Stage,7840,7112,3,47,52,41
+9/13/2023 10:15:19 PM,Parallel Processors,Indie,DJ Tent,4666,1639,1,110,43,59
+9/30/2023 1:12:30 AM,Syntax Error,Electronic,DJ Tent,2296,2296,9,116,57,49
+9/7/2023 4:12:48 PM,Segmentation Fault,Indie,VIP Lounge,889,889,6,59,53,29
+5/6/2024 7:57:18 PM,The Data Wranglers,Jazz,DJ Tent,3575,3575,6,50,18,42
+7/8/2023 3:02:39 PM,Cache Miss,Indie,Indie Arena,9956,5779,9,91,19,49
+12/14/2023 12:06:33 AM,Cluster Funk,Electronic,Main Stage,1409,744,1,39,18,21
+10/14/2023 9:44:42 AM,Recursive Rhythms,Jazz,Main Stage,964,964,6,42,50,34
+3/5/2024 6:38:26 PM,Neural Nets,Rock,Main Stage,5489,3733,5,105,59,46
+4/16/2023 7:50:11 AM,Cluster Funk,Hip Hop,DJ Tent,3463,3463,6,38,30,52
+5/1/2024 6:13:47 PM,Syntax Error,Electronic,Main Stage,8315,7418,8,97,39,54
+2/2/2024 1:50:56 AM,The Algorithmics,Electronic,Main Stage,3103,2021,5,68,28,46
+8/14/2023 9:13:02 AM,The Algorithmics,Electronic,Main Stage,8602,8602,2,53,25,40
+3/15/2024 9:06:34 AM,Neural Nets,Jazz,VIP Lounge,1331,1331,2,63,43,53
+12/19/2023 10:05:01 PM,Bit Rate,Rock,VIP Lounge,8059,4268,5,90,48,34
+1/31/2024 5:02:49 PM,Infinite Loop,Indie,DJ Tent,2811,1918,3,70,36,32
+6/30/2023 10:00:26 PM,Hello World,Rock,Main Stage,6681,1721,3,34,28,29
+12/6/2023 1:54:52 AM,Hello World,Jazz,DJ Tent,7805,7805,8,108,38,36
+4/21/2023 12:13:26 AM,Infinite Loop,Electronic,Main Stage,521,521,7,79,53,36
+4/13/2024 12:20:59 PM,Infinite Loop,Hip Hop,Main Stage,1046,1046,1,33,40,35
+12/10/2023 12:25:40 PM,Random Forest,Electronic,Main Stage,9478,6453,5,80,57,16
+3/9/2024 9:36:09 PM,Byte Beat,Indie,DJ Tent,1934,1934,9,81,50,54
+5/6/2024 12:17:06 PM,Infinite Loop,Hip Hop,DJ Tent,1664,1664,4,68,53,57
+2/6/2024 5:41:17 PM,Cluster Funk,Electronic,Main Stage,7432,7432,1,37,30,32
+11/23/2023 2:46:34 AM,Recursive Rhythms,Hip Hop,Indie Arena,5044,5044,8,74,52,37
+4/29/2024 7:10:41 PM,Random Forest,Rock,DJ Tent,1408,1408,5,117,46,27
+6/19/2023 7:05:57 AM,Bit Rate,Jazz,VIP Lounge,3086,303,2,57,20,55
+6/20/2023 9:55:06 PM,The Data Wranglers,Electronic,DJ Tent,486,486,1,56,48,23
+10/18/2023 3:09:48 PM,Random Forest,Indie,Main Stage,6231,3592,3,94,22,21
+12/16/2023 7:26:39 PM,The Query Strings,Rock,Indie Arena,9453,2825,9,63,44,55
+1/18/2024 5:49:21 AM,Hello World,Electronic,Main Stage,3358,3358,1,110,41,15
+12/21/2023 4:08:45 AM,Syntax Error,Rock,VIP Lounge,6221,6221,4,91,21,16
+6/15/2023 9:27:20 PM,The Query Strings,Indie,DJ Tent,4911,4687,8,91,41,18
+4/1/2024 4:22:02 PM,Cluster Funk,Electronic,DJ Tent,6674,6084,8,67,39,28
+11/13/2023 1:56:28 PM,Cache Miss,Indie,Main Stage,6797,6797,8,55,55,46
+9/18/2023 9:05:37 PM,Cache Miss,Hip Hop,Main Stage,4033,4033,8,53,29,50
+1/8/2024 1:43:07 AM,Infinite Loop,Indie,VIP Lounge,1539,1539,4,68,39,16
+7/23/2023 8:56:06 AM,The Data Wranglers,Hip Hop,Indie Arena,6269,3409,8,50,36,54
+3/4/2024 5:03:30 AM,Random Forest,Electronic,VIP Lounge,4580,1054,9,76,32,28
+5/6/2023 11:19:59 AM,The Algorithmics,Hip Hop,Indie Arena,155,155,7,77,26,34
+2/1/2024 3:07:31 PM,Cache Miss,Electronic,DJ Tent,3424,3321,2,42,37,39
+3/29/2024 11:39:48 AM,Neural Nets,Electronic,Indie Arena,6877,259,9,32,59,56
+6/23/2023 12:41:21 AM,Infinite Loop,Jazz,Indie Arena,205,205,8,61,53,22
+9/30/2023 11:11:17 PM,Neural Nets,Electronic,DJ Tent,3301,3301,5,64,39,42
+7/18/2023 3:22:45 PM,Parallel Processors,Hip Hop,DJ Tent,769,203,3,48,24,35
+8/21/2023 11:56:51 PM,The Data Wranglers,Jazz,DJ Tent,9034,3643,7,43,44,37
+5/14/2023 3:19:59 PM,Segmentation Fault,Jazz,VIP Lounge,1066,1066,2,77,24,46
+4/3/2024 3:37:44 PM,Syntax Error,Electronic,DJ Tent,407,407,3,115,48,22
+6/9/2023 11:16:03 AM,Hello World,Indie,Main Stage,2238,2238,9,110,27,45
+11/7/2023 12:18:44 AM,Random Forest,Indie,DJ Tent,209,209,4,97,43,51
+8/4/2023 4:57:57 AM,Bit Rate,Jazz,DJ Tent,3732,3732,4,74,52,30
+6/11/2023 4:28:56 PM,Syntax Error,Electronic,DJ Tent,6828,5657,3,48,55,54
+4/14/2024 10:46:59 AM,Infinite Loop,Indie,Indie Arena,5784,3252,5,93,59,56
+8/13/2023 12:52:16 AM,Cluster Funk,Electronic,VIP Lounge,6599,2837,3,95,23,41
+4/29/2023 11:16:43 AM,Epsilon Greedy,Electronic,DJ Tent,2015,2015,9,108,27,54
+11/16/2023 4:35:32 AM,Epsilon Greedy,Jazz,VIP Lounge,656,656,3,95,51,55
+5/3/2024 1:26:32 PM,Bit Rate,Jazz,Main Stage,7719,7449,2,104,28,32
+9/2/2023 7:23:11 AM,Epsilon Greedy,Rock,Main Stage,204,204,5,74,51,49
+4/27/2023 10:36:40 PM,Cache Miss,Indie,DJ Tent,2147,2147,6,116,23,29
+7/15/2023 5:34:23 PM,Recursive Rhythms,Indie,Main Stage,245,245,1,103,22,41
+6/28/2023 12:22:31 AM,Segmentation Fault,Indie,VIP Lounge,973,899,6,96,53,31
+4/5/2024 4:33:04 PM,Parallel Processors,Hip Hop,Indie Arena,398,398,3,98,54,54
+5/4/2023 1:56:38 PM,Segmentation Fault,Electronic,DJ Tent,3338,3338,4,32,17,16
+9/13/2023 10:05:17 PM,Parallel Processors,Jazz,Main Stage,8937,2594,6,67,54,45
+8/23/2023 7:17:46 AM,Random Forest,Indie,VIP Lounge,6482,1881,8,106,47,51
+6/1/2023 12:34:23 PM,Random Forest,Rock,VIP Lounge,2611,1522,9,71,46,55
+10/27/2023 2:15:29 AM,Segmentation Fault,Indie,Main Stage,6696,6696,6,112,21,55
+12/18/2023 2:06:23 PM,The Data Wranglers,Electronic,VIP Lounge,883,379,7,69,33,48
+9/21/2023 7:46:52 AM,Random Forest,Electronic,VIP Lounge,5092,5092,5,79,48,48
+11/29/2023 5:55:10 PM,The Data Wranglers,Jazz,DJ Tent,470,470,9,64,28,17
+7/11/2023 9:31:56 AM,Infinite Loop,Hip Hop,VIP Lounge,586,586,4,53,33,31
+6/12/2023 11:42:37 PM,Recursive Rhythms,Jazz,Main Stage,7478,4404,6,117,40,28
+2/7/2024 7:25:10 PM,The Query Strings,Indie,DJ Tent,3296,3296,5,46,31,28
+3/11/2024 11:42:22 PM,Neural Nets,Rock,Main Stage,9652,8028,1,69,42,52
+4/30/2024 11:29:42 AM,Bit Rate,Jazz,Indie Arena,4387,4288,5,103,33,49
+7/26/2023 5:53:45 AM,Hello World,Hip Hop,Main Stage,2361,2361,5,95,41,15
+3/18/2024 10:02:33 AM,Infinite Loop,Jazz,Main Stage,9248,4772,9,73,33,43
+5/6/2023 2:51:30 PM,Syntax Error,Electronic,DJ Tent,8672,1438,1,52,47,18
+8/19/2023 12:38:29 PM,Random Forest,Indie,VIP Lounge,338,338,5,35,21,47
+10/3/2023 6:39:09 AM,Segmentation Fault,Indie,Main Stage,6943,6943,7,95,43,31
+6/7/2023 11:56:13 PM,Neural Nets,Indie,DJ Tent,1205,1205,6,50,57,42
+1/8/2024 12:43:45 PM,Parallel Processors,Indie,Indie Arena,1486,1486,6,64,19,40
+3/18/2024 8:35:07 AM,Neural Nets,Indie,DJ Tent,9819,1150,7,58,44,22
+5/13/2023 12:11:33 AM,Byte Beat,Indie,DJ Tent,1767,1767,6,36,57,48
+3/13/2024 9:26:06 AM,Syntax Error,Rock,VIP Lounge,2791,2791,5,82,22,32
+10/16/2023 8:40:15 AM,Infinite Loop,Hip Hop,Main Stage,7856,2582,5,66,56,45
+1/6/2024 5:52:29 PM,The Algorithmics,Indie,Indie Arena,2096,2096,9,52,26,41
+6/4/2023 10:40:05 PM,Segmentation Fault,Hip Hop,DJ Tent,1525,1525,8,37,56,30
+5/30/2023 9:39:05 AM,Hello World,Indie,Main Stage,8123,831,4,105,27,24
+4/21/2023 12:36:19 AM,Segmentation Fault,Jazz,Main Stage,6949,3573,4,77,40,54
+4/29/2023 7:43:24 PM,Random Forest,Indie,DJ Tent,3347,3347,5,39,32,26
+4/21/2023 1:20:07 AM,Parallel Processors,Electronic,Main Stage,2692,2692,3,108,56,36
+9/9/2023 12:52:29 PM,Cluster Funk,Rock,DJ Tent,1590,1590,8,53,34,30
+12/13/2023 8:41:38 PM,The Query Strings,Jazz,DJ Tent,1324,1324,7,119,30,26
+4/14/2023 5:20:50 AM,The Data Wranglers,Jazz,DJ Tent,2687,1551,5,76,51,25
+11/5/2023 5:19:08 AM,Bit Rate,Electronic,Indie Arena,7814,3130,3,82,17,34
+8/6/2023 7:58:50 AM,Bit Rate,Indie,DJ Tent,3164,3164,5,68,41,15
+6/18/2023 6:25:26 PM,Cluster Funk,Rock,VIP Lounge,7904,7904,3,96,29,41
+5/30/2023 3:04:06 PM,Bit Rate,Jazz,Main Stage,932,552,5,95,48,17
+2/25/2024 2:08:24 PM,Syntax Error,Rock,Indie Arena,2540,2540,1,35,59,26
+2/18/2024 3:26:23 AM,The Query Strings,Jazz,Main Stage,4895,3935,6,50,36,44
+8/23/2023 2:22:55 PM,Cluster Funk,Indie,Indie Arena,1746,1746,4,102,54,23
+12/17/2023 8:11:33 AM,Recursive Rhythms,Jazz,VIP Lounge,540,540,4,103,37,51
+4/4/2024 12:42:48 PM,Bit Rate,Jazz,Indie Arena,6056,1100,8,65,18,15
+12/24/2023 6:07:44 AM,Bit Rate,Hip Hop,Indie Arena,9821,7435,2,32,55,56
+4/21/2023 9:16:26 AM,The Data Wranglers,Indie,Indie Arena,2467,2467,4,117,37,18
+10/10/2023 8:23:55 PM,Parallel Processors,Electronic,Main Stage,6796,5534,2,115,23,29
+5/14/2023 4:01:46 PM,Parallel Processors,Electronic,DJ Tent,5290,3822,1,107,38,41
+3/10/2024 7:33:24 PM,The Algorithmics,Indie,Main Stage,4763,3966,3,71,35,22
+5/3/2024 3:33:15 AM,Bit Rate,Electronic,DJ Tent,7162,4068,8,74,55,37
+8/31/2023 3:14:27 PM,Cache Miss,Indie,Main Stage,4431,1379,6,73,30,29
+8/8/2023 2:01:15 AM,Segmentation Fault,Electronic,VIP Lounge,9596,4164,7,62,39,41
+8/5/2023 10:26:58 PM,Cluster Funk,Hip Hop,VIP Lounge,3134,3134,2,89,40,45
+2/6/2024 5:16:26 PM,Random Forest,Electronic,Indie Arena,9477,8145,6,115,59,53
+8/17/2023 11:36:21 AM,Hello World,Jazz,VIP Lounge,3362,3362,8,112,23,22
+8/10/2023 9:25:12 PM,Infinite Loop,Indie,Indie Arena,2207,2207,8,112,29,44
+4/22/2024 2:01:03 AM,The Algorithmics,Rock,DJ Tent,7136,5134,4,99,53,56
+11/8/2023 7:53:44 PM,Epsilon Greedy,Rock,VIP Lounge,4420,1623,6,112,47,32
+3/18/2024 8:45:07 AM,Recursive Rhythms,Indie,DJ Tent,6038,2684,5,106,15,18
+2/5/2024 3:31:20 AM,Random Forest,Hip Hop,Main Stage,2847,2818,9,55,19,57
+12/20/2023 12:55:13 AM,The Data Wranglers,Electronic,DJ Tent,4777,4777,8,115,23,36
+8/6/2023 7:49:32 PM,Hello World,Hip Hop,Main Stage,8072,6300,2,50,58,17
+3/1/2024 8:56:05 AM,Random Forest,Rock,DJ Tent,4364,1261,7,31,20,29
+11/26/2023 2:21:35 PM,Recursive Rhythms,Indie,DJ Tent,3233,3233,7,76,42,49
+11/3/2023 7:18:32 PM,Neural Nets,Indie,VIP Lounge,1565,1565,1,59,59,52
+9/27/2023 10:55:33 PM,Segmentation Fault,Hip Hop,DJ Tent,4209,1210,1,56,40,47
+4/27/2023 8:20:38 AM,Hello World,Hip Hop,VIP Lounge,2311,2311,4,100,42,28
+5/30/2023 12:33:05 AM,Neural Nets,Electronic,VIP Lounge,5639,5639,5,49,54,15
+4/6/2024 3:44:00 AM,Random Forest,Jazz,Indie Arena,9835,2433,4,79,29,40
+2/1/2024 3:23:31 PM,The Query Strings,Jazz,Indie Arena,1789,1789,7,52,20,22
+4/23/2023 4:32:57 AM,Byte Beat,Electronic,Main Stage,9863,3590,3,42,41,30
+9/22/2023 2:46:21 PM,The Query Strings,Jazz,DJ Tent,7827,4685,7,110,52,52
+8/17/2023 12:38:07 AM,Segmentation Fault,Rock,Main Stage,7864,1145,8,33,18,24
+8/12/2023 12:39:40 AM,Hello World,Jazz,DJ Tent,4641,4641,6,43,25,56
+1/9/2024 2:36:06 PM,Hello World,Electronic,Indie Arena,3641,3641,6,49,35,51
+5/20/2023 12:03:18 PM,Segmentation Fault,Jazz,Indie Arena,918,918,8,42,44,40
+9/6/2023 2:03:15 AM,Neural Nets,Indie,DJ Tent,4621,4621,8,32,32,42
+5/4/2023 7:03:38 PM,Recursive Rhythms,Hip Hop,DJ Tent,1224,1224,7,119,49,26
+2/26/2024 8:05:12 AM,Parallel Processors,Rock,Indie Arena,5760,2010,6,119,17,34
+3/6/2024 10:59:45 AM,Byte Beat,Indie,Indie Arena,5741,1523,6,111,26,28
+5/26/2023 8:11:39 PM,Random Forest,Indie,Main Stage,1229,1229,6,107,41,49
+8/27/2023 6:27:48 AM,Infinite Loop,Electronic,Indie Arena,1802,1802,8,76,44,43
+6/15/2023 12:23:34 PM,The Data Wranglers,Hip Hop,DJ Tent,2101,1262,1,32,35,26
+3/19/2024 4:17:23 AM,The Query Strings,Hip Hop,Main Stage,7012,5747,5,30,52,32
+4/29/2023 2:43:28 AM,The Query Strings,Rock,DJ Tent,3978,3978,3,119,35,58
+10/23/2023 9:20:23 AM,Syntax Error,Electronic,VIP Lounge,7332,469,8,53,52,16
+11/20/2023 2:29:21 AM,Epsilon Greedy,Rock,Main Stage,6431,3709,6,64,54,16
+8/20/2023 2:46:48 PM,Syntax Error,Jazz,DJ Tent,6135,5333,2,43,29,31
+5/8/2024 6:44:42 AM,Byte Beat,Indie,Indie Arena,6623,6623,7,96,32,24
+8/25/2023 5:16:10 AM,The Data Wranglers,Rock,VIP Lounge,8211,8211,7,42,43,32
+4/13/2023 11:26:17 PM,The Query Strings,Indie,DJ Tent,8836,1390,5,76,52,36
+9/27/2023 5:00:10 PM,The Data Wranglers,Electronic,Main Stage,2501,2501,8,79,35,33
+10/5/2023 7:04:12 PM,Infinite Loop,Jazz,DJ Tent,9581,5239,5,107,31,15
+11/14/2023 12:54:46 AM,Random Forest,Electronic,VIP Lounge,9074,1411,1,114,55,38
+6/23/2023 1:51:41 AM,Hello World,Jazz,Main Stage,639,639,9,55,32,50
+12/8/2023 3:05:50 PM,The Data Wranglers,Jazz,VIP Lounge,5715,576,4,32,51,39
+8/20/2023 3:49:13 PM,The Query Strings,Indie,DJ Tent,3056,3056,2,80,52,50
+4/22/2024 11:38:39 PM,Neural Nets,Electronic,Indie Arena,8177,1342,4,69,26,45
+5/10/2023 4:11:40 PM,Bit Rate,Electronic,Indie Arena,3822,1704,9,97,25,45
+8/2/2023 7:58:02 PM,Byte Beat,Rock,DJ Tent,5187,237,2,65,34,16
+12/18/2023 1:46:35 AM,Segmentation Fault,Electronic,DJ Tent,6560,2808,4,80,23,33
+3/16/2024 7:22:49 PM,Parallel Processors,Rock,DJ Tent,2270,2270,2,30,15,26
+5/2/2023 5:02:39 PM,Cluster Funk,Hip Hop,Main Stage,3491,3491,5,62,17,24
+8/16/2023 10:39:59 PM,Cache Miss,Hip Hop,VIP Lounge,7042,6481,3,36,35,45
+12/22/2023 3:39:05 PM,Parallel Processors,Hip Hop,VIP Lounge,1716,1716,2,81,37,59
+1/28/2024 1:25:16 PM,Cache Miss,Electronic,VIP Lounge,9208,8544,9,40,23,36
+4/17/2023 1:17:41 AM,Cluster Funk,Electronic,DJ Tent,6558,4232,5,56,33,37
+2/7/2024 4:21:53 AM,The Data Wranglers,Rock,VIP Lounge,2856,2856,5,43,59,37
+5/9/2023 9:48:32 AM,Byte Beat,Jazz,DJ Tent,6953,487,1,115,33,29
+9/10/2023 5:59:21 PM,The Data Wranglers,Rock,Main Stage,7809,882,6,109,37,40
+7/22/2023 1:09:36 PM,Infinite Loop,Hip Hop,Indie Arena,2036,2036,7,75,41,17
+11/13/2023 3:59:17 PM,Infinite Loop,Rock,DJ Tent,3191,3191,1,105,41,37
+11/3/2023 6:56:26 AM,Infinite Loop,Jazz,DJ Tent,1068,1068,9,39,53,34
+3/4/2024 12:44:22 PM,Recursive Rhythms,Electronic,Indie Arena,7397,5844,8,53,50,59
+5/24/2023 4:51:44 PM,Bit Rate,Rock,Indie Arena,3303,3303,8,90,26,54
+2/19/2024 4:37:44 PM,Segmentation Fault,Hip Hop,Main Stage,6599,3835,7,47,41,53
+5/6/2023 6:01:59 PM,Byte Beat,Hip Hop,VIP Lounge,5273,5270,5,115,48,22
+4/1/2024 2:14:21 PM,Syntax Error,Electronic,DJ Tent,989,989,3,38,47,32
+8/11/2023 3:24:17 AM,Syntax Error,Rock,VIP Lounge,9084,6868,9,46,42,55
+3/21/2024 12:38:33 PM,Parallel Processors,Jazz,DJ Tent,9273,734,7,87,45,20
+12/31/2023 1:53:18 PM,Recursive Rhythms,Electronic,Main Stage,7482,4283,8,42,46,41
+6/18/2023 8:01:50 AM,Cluster Funk,Rock,Indie Arena,3631,627,6,79,34,50
+11/4/2023 2:43:33 PM,The Algorithmics,Indie,Main Stage,901,901,5,35,54,29
+12/30/2023 10:06:23 AM,Infinite Loop,Hip Hop,Indie Arena,8334,277,8,114,49,51
+12/27/2023 4:41:10 AM,Infinite Loop,Jazz,VIP Lounge,3449,2378,3,80,45,19
+4/23/2024 10:45:00 AM,The Algorithmics,Jazz,VIP Lounge,8105,2781,7,65,45,53
+1/10/2024 8:38:46 PM,The Data Wranglers,Jazz,Main Stage,3301,3301,2,100,52,23
+1/17/2024 9:31:18 AM,Epsilon Greedy,Hip Hop,Indie Arena,449,449,3,54,36,21
+9/25/2023 10:55:27 PM,The Query Strings,Rock,Main Stage,9859,9305,2,40,59,55
+2/7/2024 8:03:45 PM,Neural Nets,Electronic,Indie Arena,9421,1759,5,73,55,34
+12/17/2023 9:59:21 PM,Recursive Rhythms,Rock,Indie Arena,683,683,7,43,23,24
+12/8/2023 5:13:27 PM,Bit Rate,Electronic,VIP Lounge,3477,1284,1,58,23,40
+9/3/2023 7:13:53 AM,Hello World,Jazz,VIP Lounge,6128,6128,9,103,29,18
+8/5/2023 11:25:01 PM,Recursive Rhythms,Rock,Indie Arena,7794,5255,1,79,27,52
+6/30/2023 5:10:46 PM,Neural Nets,Jazz,Indie Arena,6296,1470,1,34,36,38
+2/5/2024 10:02:26 PM,Segmentation Fault,Indie,Indie Arena,7183,818,8,101,30,28
+1/27/2024 1:25:40 PM,The Data Wranglers,Jazz,VIP Lounge,3501,3501,6,98,46,55
+5/9/2024 2:40:34 AM,Bit Rate,Jazz,VIP Lounge,3285,3285,6,117,16,15
+11/24/2023 3:26:03 AM,Bit Rate,Electronic,DJ Tent,5385,5385,9,86,40,31
+2/23/2024 9:25:32 AM,Random Forest,Indie,Indie Arena,9454,3154,4,55,28,59
+5/27/2023 3:56:33 PM,Infinite Loop,Jazz,DJ Tent,6872,4405,8,35,52,38
+2/4/2024 2:50:35 AM,Byte Beat,Jazz,Indie Arena,8590,3355,4,45,48,41
+1/15/2024 7:19:40 AM,Syntax Error,Indie,VIP Lounge,3447,1588,2,89,22,21
+5/7/2023 8:05:10 AM,Syntax Error,Indie,DJ Tent,888,888,8,41,50,23
+12/23/2023 3:09:36 AM,Bit Rate,Rock,DJ Tent,5045,5045,7,104,35,57
+6/3/2023 1:18:28 PM,The Data Wranglers,Electronic,Main Stage,2989,2989,4,32,57,49
+10/31/2023 6:11:37 PM,Byte Beat,Indie,Indie Arena,9669,8311,9,92,42,26
+9/6/2023 4:13:36 AM,Hello World,Indie,VIP Lounge,5373,5373,9,93,58,35
+4/3/2024 7:34:39 PM,Epsilon Greedy,Hip Hop,Main Stage,3372,3372,8,91,20,17
+7/17/2023 2:35:38 AM,The Algorithmics,Indie,Main Stage,9169,7176,1,35,34,29
+1/27/2024 9:49:05 AM,Neural Nets,Electronic,Indie Arena,5334,530,7,48,45,35
+5/13/2023 9:35:14 AM,Parallel Processors,Jazz,Main Stage,9869,5313,5,47,47,24
+8/24/2023 2:52:15 PM,The Query Strings,Jazz,Indie Arena,7002,4144,7,109,58,47
+3/30/2024 5:53:00 PM,The Algorithmics,Jazz,Main Stage,7712,6217,9,116,21,20
+9/25/2023 7:21:50 PM,Hello World,Jazz,Indie Arena,2592,2592,2,72,22,16
+3/8/2024 7:40:21 AM,Hello World,Hip Hop,VIP Lounge,6845,2942,4,102,23,43
